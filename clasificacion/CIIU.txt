@@ -1,34 +1,3 @@
-
-  Régimen Legal de Bogotá D.C.    © Propiedad de la Secretaría General de la Alcaldía Mayor de Bogotá D.C.
-  Resolución 139 de 2012 Dirección de Impuestos y Aduanas Nacionales
-
-  Fecha de Expedición:  21/11/2012
-  Fecha de Entrada en Vigencia: 01/12/2012
-  Medio de Publicación: Diario Oficial 48622 de noviembre 22 de 2012
-
-
-
-  Ver temas del documento
-  Contenido del Documento
-
-
-
-RESOLUCIÓN 000139 DE 2012
-(Noviembre 21)
-Por la cual la Dirección de Impuestos y Aduanas Nacionales – DIAN, adopta la Clasificación de Actividades Económicas – CIIU revisión 4 adaptada para Colombia.
-EL DIRECTOR GENERAL DE IMPUESTOS Y ADUANAS NACIONALES,
-en uso de sus facultades legales y en especial las conferidas por los artículos 3º y 6º del Decreto 4048 de 2008 y los artículos 555-2 y 612 del Estatuto Tributario, y
-CONSIDERANDO:
-Que el Departamento Administrativo Nacional de Estadística – DANE, mediante Resolución número 66 del 31 de enero de 2012 estableció la Clasificación de Actividades Económicas – CIIU Revisión 4 adaptada para Colombia.
-Que para mantener y garantizar la comparabilidad, calidad e integración de la información estadística, es imperativo que el Gobierno Nacional establezca la Clasificación Industrial Uniforme de todas las Actividades Económicas adaptada para Colombia CIIU Revisión 4, a la cual deben sujetarse tanto los Entes Privados como los Públicos.
-Que en el artículo 2° de la citada resolución el DANE establece: …”El Código de Actividad Económica establecido en la CIIU Rev. 4 A. C., deberá utilizarse de manera obligatoria por todas las entidades de carácter privado o público que produzcan información estadística identificando la actividad económica principal para la asignación correcta del código…”.
-Que para efectos del control y determinación de los impuestos y demás obligaciones tributarias, aduaneras y cambiarias administradas por la Dirección de Impuestos y Aduanas Nacionales - DIAN, es necesario que se adopte la Clasificación de Actividades Económicas CIIU Rev. 4 A.C.
-Que se ha dado cumplimiento a los artículos 3° y 8° de la Ley 1437 de 2011, en desarrollo de los principios de transparencia y publicidad, al recibir de los Directivos y Funcionarios de la Dirección de Impuestos y Aduanas Nacionales y ciudadanía en general; sugerencias, opiniones y propuestas, sobre el texto del presente acto administrativo.
-RESUELVE:
-Artículo 1°. Clasificación de Actividades Económicas que adopta la Dirección de Impuestos y Aduanas Nacionales – DIAN para efectos del control y determinación de los impuestos y demás obligaciones tributarias, aduaneras y cambiarias:
-CLASIFICACIÓN INDUSTRIAL INTERNACIONAL UNIFORME,
-REVISIÓN 4 ADAPTADA PARA COLOMBIA
-CIIU Rev. 4 A.C.
 Sección A. Agricultura, Ganadería, Caza, Silvicultura y Pesca
 (Divisiones 01 A 03)
 División 01. Agricultura, ganadería, caza y actividades de servicios conexas.
