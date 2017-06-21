@@ -100,9 +100,9 @@ function fetchData () {
 
   for (var i = 0, empresa; empresa = empresasNoDupOrd[i]; i++) {
     strGithub += '\n\n## ' + (i + 1) + '. ' + empresa.nombre
-        + '\nfanpageUrl: [' + empresa.fanpageUrl + '](' + empresa.fanpageUrl + ')'
-        + '\nusuarioNombre: ' + empresa.usuarioNombre
-        + '\nusuarioUrl: [' + empresa.usuarioUrl + '](' + empresa.usuarioUrl + ')'
+        + '\n- fanpageUrl: [' + empresa.fanpageUrl + '](' + empresa.fanpageUrl + ')'
+        + '\n- usuarioNombre: ' + empresa.usuarioNombre
+        + '\n- usuarioUrl: [' + empresa.usuarioUrl + '](' + empresa.usuarioUrl + ')'
   }
 
   // console.log(str + strFace)
