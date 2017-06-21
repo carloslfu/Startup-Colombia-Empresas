@@ -1,5 +1,46 @@
 [
   {
+    "nombre": "Dakio",
+    "fanpageUrl": "https://www.facebook.com/weareDakio",
+    "webpage": "https://dakio.co",
+    "usuarioNombre": "Nicolas M. Pardo",
+    "usuarioUrl": "https://www.facebook.com/Nikodermus13"
+  },
+  {
+    "nombre": "NODO Coworking",
+    "fanpageUrl": "https://www.facebook.com/nodocoworking",
+    "webpage": "https://nodo.space",
+    "usuarioNombre": "Julián Arango",
+    "usuarioUrl": "https://www.facebook.com/Sadeuz"
+  },
+  {
+    "nombre": "Triarii",
+    "fanpageUrl": "https://www.facebook.com/TriariiColombia",
+    "webpage": "http://www.triarii.com.co",
+    "usuarioNombre": "Andrés Leal",
+    "usuarioUrl": "https://www.facebook.com/andrewbass7"
+  },
+  {
+    "nombre": "Mussu",
+    "fanpageUrl": "https://www.facebook.com/mussumasaje",
+    "webpage": "https://www.mussu.co",
+    "usuarioNombre": "Michell Rodríguez",
+    "usuarioUrl": "https://www.facebook.com/michellrodriguezn"
+  },
+  {
+    "nombre": "Agencia Digital 724",
+    "fanpageUrl": "https://www.facebook.com/agenciadigital724",
+    "webpage": "http://www.724digital.co",
+    "usuarioNombre": "Karlos Arturo Isaza",
+    "usuarioUrl": "https://www.facebook.com/karlos.isaza"
+  },
+  {
+    "nombre": "La Bicicletería D.C.",
+    "fanpageUrl": "https://www.facebook.com/Labicicleteriadc",
+    "usuarioNombre": "Cristian David Puentes",
+    "usuarioUrl": "https://www.facebook.com/cristiandavid.puentes"
+  },
+  {
     "nombre": "Mombox",
     "fanpageUrl": "https://www.facebook.com/Momboxco",
     "webpage": "https://mombox.co",
@@ -167,8 +208,9 @@
     "usuarioUrl": "https://www.facebook.com/AponTdavid"
   },
   {
-    "nombre": "10entrepreneurs",
-    "fanpageUrl": "https://www.facebook.com/10entrepreneurs/",
+    "nombre": "10Entrepreneurs.com",
+    "fanpageUrl": "https://www.facebook.com/10entrepreneurs",
+    "webpage": "http://www.10entrepreneurs.com",
     "usuarioNombre": "Nicolas Murillo",
     "usuarioUrl": "https://www.facebook.com/nicolas.murillo.7"
   },
