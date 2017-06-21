@@ -15,14 +15,13 @@ Datos no recolectados, por completar (se puede automatizar accediendo a las fanp
 - seguidores
 - puntuación
 
-Si estás interesado en la información no recolectada puedes responderlo en la encuesta del Facebook y darle like :smile:
+Si estás interesado en la información no recolectada deja un comentario diciendo "Si" y dale like al post :smile:
 
 Si tu empresa no está en la lista escríbela en el post de Facebook, la idea es completar la lista :heart:
 
 La lista la realize con el código que se encuentra [aquí](https://github.com/carloslfu/Startup-Colombia-Empresas/blob/master/script.js). Si estás interesado en el servicio de recolección automatizada de información me puedes contactar a mi correo electrónico carloslfu@gmail.com
 
 Lista actualizada el Tue Jun 20 2017 19:15:57 GMT-0500 (COT)
-
 
 ## 1. 10entrepreneurs
 - fanpageUrl: [https://www.facebook.com/10entrepreneurs/?hc_location=ufi](https://www.facebook.com/10entrepreneurs/?hc_location=ufi)
