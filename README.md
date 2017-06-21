@@ -2,22 +2,24 @@
 
 Lista de empresas en [Startup Colombia](https://www.facebook.com/groups/startupco), tomado de [este post](https://www.facebook.com/groups/startupco/permalink/1359283507442442/)
 
-La información contiene:
+La lista está ordeneda alfabeticamente y cada empresa tiene la siguiente informacion:
 
 - nombre: nombre de la empresa extraido de la URL de Facebook, si es legible (a veces son números)
 - fanpageUrl: URL de fanpage
 - usuarioNombre: perfil de FB (posible CEO o CTO o multioficio ;) (emprendedor)
 - usuarioUrl: perfil de FB (posible CEO o CTO o multioficio ;) (emprendedor)
-no implementadas, por completar (se puede automatizar accediendo a las fanpages)
+
+Datos no recolectados, por completar (se puede automatizar accediendo a las fanpages)
+
 - likes: numero de likes de la fanpage
 - seguidores
 - puntuación
 
-Si estás interesado en la información no implementada puedes responderlo en la encuesta del Facebook y darle like :)
+Si estás interesado en la información no recolectada puedes responderlo en la encuesta del Facebook y darle like :smile:
 
 Si tu empresa no está en la lista escríbela en el post de Facebook, la idea es completar la lista :heart:
 
-La lista la realize con el código que se encuentra [aquí](). Si estás interesado en el servicio de recolección automatizada de información me puedes contactar a mi correo electrónico carloslfu@gmail.com
+La lista la realize con el código que se encuentra [aquí](https://github.com/carloslfu/Startup-Colombia-Empresas/blob/master/script.js). Si estás interesado en el servicio de recolección automatizada de información me puedes contactar a mi correo electrónico carloslfu@gmail.com
 
 Lista actualizada el Tue Jun 20 2017 19:15:57 GMT-0500 (COT)
 
