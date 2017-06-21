@@ -331,7 +331,8 @@
   },
   {
     "nombre": "Al Bosque Hostal & Glamping",
-    "fanpageUrl": "https://www.facebook.com/albosquehostal/",
+    "fanpageUrl": "https://www.facebook.com/albosquehostal",
+    "webpage": "http://albosque.com",
     "usuarioNombre": "Daniel Cano",
     "usuarioUrl": "https://www.facebook.com/danielcanog"
   },
@@ -552,7 +553,7 @@
   },
   {
     "nombre": "Arboleo",
-    "fanpageUrl": "https://www.facebook.com/arboleojardin/",
+    "fanpageUrl": "https://www.facebook.com/arboleojardin",
     "usuarioNombre": "Irene Ayala",
     "usuarioUrl": "https://www.facebook.com/irene.ayala3"
   },
@@ -565,69 +566,76 @@
   },
   {
     "nombre": "BS Ecomaterials",
-    "fanpageUrl": "https://www.facebook.com/bsecomaterials/",
-    "webpage": "http://www.bsecomaterials.com/",
+    "fanpageUrl": "https://www.facebook.com/bsecomaterials",
+    "webpage": "http://www.bsecomaterials.com",
     "usuarioNombre": "Alvaro Velasquez",
     "usuarioUrl": "https://www.facebook.com/alvaro.velasquez.315"
   },
   {
     "nombre": "Versus",
-    "fanpageUrl": "https://www.facebook.com/deporteversus/",
-    "webpage": "http://www.deporteversus.com/",
+    "fanpageUrl": "https://www.facebook.com/deporteversus",
+    "webpage": "http://www.deporteversus.com",
     "usuarioNombre": "Felipe Grisales",
     "usuarioUrl": "https://www.facebook.com/juangrisalestv"
   },
   {
-    "nombre": "dolceamorereposteria",
+    "nombre": "Dolce Amore",
     "fanpageUrl": "https://www.facebook.com/dolceamorereposteria",
+    "webpage": "http://www.dolceamore.com.co",
     "usuarioNombre": "Andres Sierra Hernandez",
     "usuarioUrl": "https://www.facebook.com/andres.s.hernandez.58"
   },
   {
-    "nombre": "drmacCO",
+    "nombre": "Dr. MAC",
     "fanpageUrl": "https://www.facebook.com/drmacCO",
+    "webpage": "https://drmacbta.wixsite.com/drmac",
     "usuarioNombre": "Manuel González",
     "usuarioUrl": "https://www.facebook.com/manuchauuu"
   },
   {
-    "nombre": "emprendouplatam",
-    "fanpageUrl": "https://www.facebook.com/emprendouplatam/",
+    "nombre": "Emprendo up",
+    "fanpageUrl": "https://www.facebook.com/emprendouplatam",
     "usuarioNombre": "Nicolas Murillo",
     "usuarioUrl": "https://www.facebook.com/nicolas.murillo.7"
   },
   {
     "nombre": "enRuta.Co",
     "fanpageUrl": "https://www.facebook.com/enRuta.Co",
+    "webpage": "http://www.enruta.co",
     "usuarioNombre": "Elton J. Gomez",
     "usuarioUrl": "https://www.facebook.com/elton.j.gomez"
   },
   {
-    "nombre": "fanpage.redsuri",
-    "fanpageUrl": "https://m.facebook.com/fanpage.redsuri",
+    "nombre": "Red SURI",
+    "fanpageUrl": "https://www.facebook.com/fanpage.redsuri",
+    "webpage": "http://www.redsuri.com",
     "usuarioNombre": "Jhon Edinson Collazos Sanchez",
     "usuarioUrl": "https://www.facebook.com/jhonedinson.collazossanchez"
   },
   {
-    "nombre": "kaizengreencolombia",
-    "fanpageUrl": "https://www.facebook.com/kaizengreencolombia/",
+    "nombre": "KaiZen Green Colombia",
+    "fanpageUrl": "https://www.facebook.com/kaizengreencolombia",
     "usuarioNombre": "Nenfer Elena Rojas Monroy",
     "usuarioUrl": "https://www.facebook.com/nenfer.monroy"
   },
   {
-    "nombre": "lavalocolombia",
+    "nombre": "Lavalo Colombia",
     "fanpageUrl": "https://facebook.com/lavalocolombia",
+    "webpage": "http://www.lavalocolombia.com",
     "usuarioNombre": "Alejandro Espinosa",
     "usuarioUrl": "https://www.facebook.com/alejo.spinosa"
   },
   {
-    "nombre": "leancase.co",
-    "fanpageUrl": "https://l.facebook.com/l.php?u=http%3A%2F%2FWww.leancase.co%2F&h=ATNaonri4FCSIE3NBv-HWtCxToFCbU7ZHwAMgUeM4o_kW3opSagSF-ExoJld-FAPI62WYZoAdzGSwXiVSRN4Lh9twwOp5HehEqVvc34FlQfeM90kppYMVXJFl_i1KocJ-zJd",
+    "nombre": "Leancase",
+    "fanpageUrl": "https://www.facebook.com/leancaseco",
+    "webpage": "http://www.leancase.co",
     "usuarioNombre": "Juan Pablo Montaño",
     "usuarioUrl": "https://www.facebook.com/juan.p.montano.14"
   },
   {
-    "nombre": "marmol.mobiliario",
+    "nombre": "Marmobi SAS",
     "fanpageUrl": "https://www.facebook.com/marmol.mobiliario",
+    "webpage": "http://www.marmolesymobiliario.com",
     "usuarioNombre": "Andrés Morales",
     "usuarioUrl": "https://www.facebook.com/jmoralesacero"
   },
@@ -660,8 +668,9 @@
     "usuarioUrl": "https://www.facebook.com/fabriziolink"
   },
   {
-    "nombre": "turbowarecol",
+    "nombre": "TurboWare Colombia",
     "fanpageUrl": "https://www.facebook.com/turbowarecol",
+    "webpage": "http://turbowarecol.com",
     "usuarioNombre": "Ernesto Soto",
     "usuarioUrl": "https://www.facebook.com/sotomelendez"
   },
