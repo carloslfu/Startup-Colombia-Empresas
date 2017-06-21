@@ -1,10 +1,24 @@
 [
   {
+    "nombre": "GET International Solutions",
+    "fanpageUrl": "https://www.facebook.com/getinsolutions",
+    "webpage": "http://www.getinsolutions.com",
+    "usuarioNombre": "Wilton Loaiza",
+    "usuarioUrl": "https://www.facebook.com/wilton.loaiza"
+  },
+  {
+    "nombre": "Foody",
+    "fanpageUrl": "https://www.facebook.com/foodysocial",
+    "webpage": "http://www.foody.com.co",
+    "usuarioNombre": "Andres David Galindo Olarte",
+    "usuarioUrl": "https://www.facebook.com/and.go"
+  },
+  {
     "nombre": "Aumentada",
     "fanpageUrl": "https://www.facebook.com/aumentadacol",
     "webpage": "https://aumentada.net",
-    "usuarioNombre": "Diana Marcela Méndez Figueroa",
-    "usuarioUrl": "https://www.facebook.com/diana.mendez65"
+    "usuarioNombre": "Santiago Bernal Betancourth",
+    "usuarioUrl": "https://www.facebook.com/santiaguf"
   },
   {
     "nombre": "Apyme",
