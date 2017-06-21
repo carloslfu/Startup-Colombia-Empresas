@@ -1,5 +1,53 @@
 [
   {
+    "nombre": "GRUPO PAAR",
+    "fanpageUrl": "https://www.facebook.com/grupopaarsas",
+    "webpage": "http://www.paar.com.co",
+    "usuarioNombre": "Diana Marcela Méndez Figueroa",
+    "usuarioUrl": "https://www.facebook.com/diana.mendez65"
+  },
+  {
+    "nombre": "Trankki",
+    "webpage": "http://trankki.com",
+    "usuarioNombre": "Néstor Andrés Santos Vidales",
+    "usuarioUrl": "https://www.facebook.com/NestorAndresSantosVidales"
+  },
+  {
+    "nombre": "SOA Consulting World",
+    "fanpageUrl": "https://www.facebook.com/soaconsulting",
+    "webpage": "http://www.soaconsultingonline.com",
+    "usuarioNombre": "Pao Camargo",
+    "usuarioUrl": "https://www.facebook.com/pao.camargo.56"
+  },
+  {
+    "nombre": "Boxi Sleep",
+    "fanpageUrl": "https://www.facebook.com/BoxiColombia",
+    "webpage": "http://www.boxisleep.com",
+    "usuarioNombre": "Santiago Varenkow",
+    "usuarioUrl": "https://www.facebook.com/EL.PAMPI"
+  },
+  {
+    "nombre": "Buffer Studio",
+    "fanpageUrl": "https://www.facebook.com/BufferStudio",
+    "webpage": "http://bufferstudio.com",
+    "usuarioNombre": "Lina Espejo Restrepo",
+    "usuarioUrl": "https://www.facebook.com/lina.espejo"
+  },
+  {
+    "nombre": "Komercia",
+    "fanpageUrl": "https://www.facebook.com/KomerciaWeb",
+    "webpage": "http://komercia.co",
+    "usuarioNombre": "Gustavo Moreno",
+    "usuarioUrl": "https://www.facebook.com/gusplayer1"
+  },
+  {
+    "nombre": "CYMETRIA GROUP S.A.",
+    "fanpageUrl": "https://www.facebook.com/cymetriagroup",
+    "webpage": "http://cymetria.com",
+    "usuarioNombre": "Oscar Dueñas",
+    "usuarioUrl": "https://www.facebook.com/oscarduenasm"
+  },
+  {
     "nombre": "CaféSinergia",
     "fanpageUrl": "https://www.facebook.com/cafesinergia",
     "webpage": "http://www.cafesinergia.com",
@@ -283,8 +331,9 @@
     "usuarioUrl": "https://www.facebook.com/elton.j.gomez"
   },
   {
-    "nombre": "FutmatchSoftware",
+    "nombre": "FutMatch",
     "fanpageUrl": "https://www.facebook.com/FutmatchSoftware",
+    "webpage": "http://www.futmatch.co",
     "usuarioNombre": "Cristian E Carvajal B",
     "usuarioUrl": "https://www.facebook.com/CriCarBa"
   },
