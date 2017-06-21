@@ -632,38 +632,43 @@
     "usuarioUrl": "https://www.facebook.com/jmoralesacero"
   },
   {
-    "nombre": "pixeling.co",
-    "fanpageUrl": "https://www.facebook.com/pixeling.co/",
+    "nombre": "Pixeling Solutions",
+    "fanpageUrl": "https://www.facebook.com/pixeling.co",
+    "webpage": "http://www.pixeling.co",
     "usuarioNombre": "Diego Valencia",
     "usuarioUrl": "https://www.facebook.com/diegovalencia727"
   },
   {
-    "nombre": "saeloasistencia",
+    "nombre": "SAELO",
     "fanpageUrl": "https://www.facebook.com/saeloasistencia",
+    "webpage": "http://www.saelo.co",
     "usuarioNombre": "Julian Sanchez",
     "usuarioUrl": "https://www.facebook.com/juliansanchezlop"
   },
   {
-    "nombre": "semiosisLab",
-    "fanpageUrl": "https://m.facebook.com/semiosisLab/",
+    "nombre": "Semiosis Lab",
+    "fanpageUrl": "https://www.facebook.com/semiosisLab",
+    "webpage": "http://semiosislab.com",
     "usuarioNombre": "Edna Rocío Bravo Ibarra",
     "usuarioUrl": "https://www.facebook.com/edna.r.ibarra"
   },
   {
-    "nombre": "tuatara.co",
-    "fanpageUrl": "https://l.facebook.com/l.php?u=http%3A%2F%2FWww.tuatara.co%2F&h=ATPNy24YmPxxlad4dRdh6arwVq8rKK-ZLHrit-BPPVYuCyAlJDzY5u1UTJBGxMy3Pzqj74defJz_9w9RhuyXOOTgE4Aq3Njp_8C6pUoqdapHia1SBq0Dn2vzRBdFr3Em2XXW",
+    "nombre": "Tuatara",
+    "fanpageUrl": "https://www.facebook.com/TuataraColombia",
+    "webpage": "https://www.tuatara.co",
     "usuarioNombre": "Fabrizio González Maroso",
     "usuarioUrl": "https://www.facebook.com/fabriziolink"
   },
   {
     "nombre": "turbowarecol",
-    "fanpageUrl": "https://www.facebook.com/turbowarecol/",
+    "fanpageUrl": "https://www.facebook.com/turbowarecol",
     "usuarioNombre": "Ernesto Soto",
     "usuarioUrl": "https://www.facebook.com/sotomelendez"
   },
   {
-    "nombre": "venaycia",
-    "fanpageUrl": "https://m.facebook.com/venaycia/",
+    "nombre": "VELASQUEZ NARANJO Y COMPAÑIA",
+    "fanpageUrl": "https://www.facebook.com/venaycia",
+    "webpage": "http://venaycia.com",
     "usuarioNombre": "Alvaro Velasquez",
     "usuarioUrl": "https://www.facebook.com/alvaro.velasquez.315"
   }
