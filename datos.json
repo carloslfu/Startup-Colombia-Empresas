@@ -1,5 +1,12 @@
 [
   {
+    "nombre": "Platzi",
+    "fanpageUrl": "https://www.facebook.com/platzi",
+    "webpage": "https://platzi.com",
+    "usuarioNombre": "Freddy Vega",
+    "usuarioUrl": "https://www.facebook.com/freddy.vega.963871"
+  },
+  {
     "nombre": "GET International Solutions",
     "fanpageUrl": "https://www.facebook.com/getinsolutions",
     "webpage": "http://www.getinsolutions.com",
