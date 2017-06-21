@@ -28,8 +28,6 @@ Si tu empresa no está en la lista escríbela en el post de Facebook, la idea es
 
 La lista la realize con el código que se encuentra [aquí](https://github.com/carloslfu/Startup-Colombia-Empresas/blob/master/script.js). Si estás interesado en recolección automatizada de información en internet me puedes contactar a mi correo electrónico carloslfu@gmail.com
 
-
-
 ## 1. 10Entrepreneurs.com
 - Fanpage Url: [https://www.facebook.com/10entrepreneurs](https://www.facebook.com/10entrepreneurs)
 - Página Web: [http://www.10entrepreneurs.com](http://www.10entrepreneurs.com)
@@ -414,8 +412,9 @@ La lista la realize con el código que se encuentra [aquí](https://github.com/c
 - Usuario: Edward Ramirez Avella
 - Usuario Url: [https://www.facebook.com/edp4s](https://www.facebook.com/edp4s)
 
-## 70. pixeling.co
-- Fanpage Url: [https://www.facebook.com/pixeling.co/](https://www.facebook.com/pixeling.co/)
+## 70. Pixeling Solutions
+- Fanpage Url: [https://www.facebook.com/pixeling.co](https://www.facebook.com/pixeling.co)
+- Página Web: [http://www.pixeling.co](http://www.pixeling.co)
 - Usuario: Diego Valencia
 - Usuario Url: [https://www.facebook.com/diegovalencia727](https://www.facebook.com/diegovalencia727)
 
@@ -469,6 +468,7 @@ La lista la realize con el código que se encuentra [aquí](https://github.com/c
 
 ## 80. SAELO
 - Fanpage Url: [https://www.facebook.com/saeloasistencia](https://www.facebook.com/saeloasistencia)
+- Página Web: [http://www.saelo.co](http://www.saelo.co)
 - Usuario: Julian Sanchez
 - Usuario Url: [https://www.facebook.com/juliansanchezlop](https://www.facebook.com/juliansanchezlop)
 
@@ -477,8 +477,9 @@ La lista la realize con el código que se encuentra [aquí](https://github.com/c
 - Usuario: Eddy Quintero
 - Usuario Url: [https://www.facebook.com/eddy.quintero2](https://www.facebook.com/eddy.quintero2)
 
-## 82. semiosisLab
-- Fanpage Url: [https://m.facebook.com/semiosisLab/](https://m.facebook.com/semiosisLab/)
+## 82. Semiosis Lab
+- Fanpage Url: [https://www.facebook.com/semiosisLab](https://www.facebook.com/semiosisLab)
+- Página Web: [http://semiosislab.com](http://semiosislab.com)
 - Usuario: Edna Rocío Bravo Ibarra
 - Usuario Url: [https://www.facebook.com/edna.r.ibarra](https://www.facebook.com/edna.r.ibarra)
 
@@ -541,8 +542,9 @@ La lista la realize con el código que se encuentra [aquí](https://github.com/c
 - Usuario: Andrés Leal
 - Usuario Url: [https://www.facebook.com/andrewbass7](https://www.facebook.com/andrewbass7)
 
-## 94. tuatara.co
-- Fanpage Url: [https://l.facebook.com/l.php?u=http%3A%2F%2FWww.tuatara.co%2F&h=ATPNy24YmPxxlad4dRdh6arwVq8rKK-ZLHrit-BPPVYuCyAlJDzY5u1UTJBGxMy3Pzqj74defJz_9w9RhuyXOOTgE4Aq3Njp_8C6pUoqdapHia1SBq0Dn2vzRBdFr3Em2XXW](https://l.facebook.com/l.php?u=http%3A%2F%2FWww.tuatara.co%2F&h=ATPNy24YmPxxlad4dRdh6arwVq8rKK-ZLHrit-BPPVYuCyAlJDzY5u1UTJBGxMy3Pzqj74defJz_9w9RhuyXOOTgE4Aq3Njp_8C6pUoqdapHia1SBq0Dn2vzRBdFr3Em2XXW)
+## 94. Tuatara
+- Fanpage Url: [https://www.facebook.com/TuataraColombia](https://www.facebook.com/TuataraColombia)
+- Página Web: [https://www.tuatara.co](https://www.tuatara.co)
 - Usuario: Fabrizio González Maroso
 - Usuario Url: [https://www.facebook.com/fabriziolink](https://www.facebook.com/fabriziolink)
 
@@ -552,7 +554,7 @@ La lista la realize con el código que se encuentra [aquí](https://github.com/c
 - Usuario Url: [https://www.facebook.com/ernesto.diaz.10.80](https://www.facebook.com/ernesto.diaz.10.80)
 
 ## 96. turbowarecol
-- Fanpage Url: [https://www.facebook.com/turbowarecol/](https://www.facebook.com/turbowarecol/)
+- Fanpage Url: [https://www.facebook.com/turbowarecol](https://www.facebook.com/turbowarecol)
 - Usuario: Ernesto Soto
 - Usuario Url: [https://www.facebook.com/sotomelendez](https://www.facebook.com/sotomelendez)
 
@@ -567,8 +569,9 @@ La lista la realize con el código que se encuentra [aquí](https://github.com/c
 - Usuario: Ulises Rodríguez Utria
 - Usuario Url: [https://www.facebook.com/Deshinvirse](https://www.facebook.com/Deshinvirse)
 
-## 99. venaycia
-- Fanpage Url: [https://m.facebook.com/venaycia/](https://m.facebook.com/venaycia/)
+## 99. VELASQUEZ NARANJO Y COMPAÑIA
+- Fanpage Url: [https://www.facebook.com/venaycia](https://www.facebook.com/venaycia)
+- Página Web: [http://venaycia.com](http://venaycia.com)
 - Usuario: Alvaro Velasquez
 - Usuario Url: [https://www.facebook.com/alvaro.velasquez.315](https://www.facebook.com/alvaro.velasquez.315)
 
