@@ -113,7 +113,7 @@ Lista actualizada el Tue Jun 20 2017 19:15:57 GMT-0500 (COT)
 - usuarioNombre: Danny Jaiquel
 - usuarioUrl: [https://www.facebook.com/danny.jaiquel?fref=ufi](https://www.facebook.com/danny.jaiquel?fref=ufi)
 
-## 19. NetM-SAS-793649670750027
+## 19. NetM-SAS
 - fanpageUrl: [https://www.facebook.com/NetM-SAS-793649670750027?hc_location=ufi](https://www.facebook.com/NetM-SAS-793649670750027?hc_location=ufi)
 - usuarioNombre: Daniel J. Malaver Camelo
 - usuarioUrl: [https://www.facebook.com/daniel.malaver?fref=ufi](https://www.facebook.com/daniel.malaver?fref=ufi)
