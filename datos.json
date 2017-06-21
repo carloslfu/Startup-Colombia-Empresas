@@ -1,5 +1,34 @@
 [
   {
+    "nombre": "Espacio Digital Marketing",
+    "fanpageUrl": "https://www.facebook.com/MercadeoDigitalenPereira",
+    "webpage": "http://espaciodigitalmarketing.com",
+    "usuarioNombre": "Jacky Naranjo",
+    "usuarioUrl": "https://www.facebook.com/JaKy2009"
+  },
+  {
+    "nombre": "ConEmpathy",
+    "fanpageUrl": "https://www.facebook.com/ConEmpathy",
+    "webpage": "http://conempathy.com",
+    "usuarioNombre": "Isabel Cristina González Rivera",
+    "usuarioUrl": "https://www.facebook.com/interpretesimultanea"
+  },
+  {
+    "nombre": "Parkeep",
+    "fanpageUrl": "https://www.facebook.com/soyparkeep",
+    "webpage": "http://parkeep.com.co",
+    "usuarioNombre": "Juan David Patiño",
+    "usuarioUrl": "https://www.facebook.com/Juan7am"
+  },
+  {
+    "nombre": "Eversocial",
+    "fanpageUrl": "https://www.facebook.com/eversocial",
+    "webpage": "http://eversocial.co",
+    "usuarioNombre": "Marian Villa",
+    "usuarioUrl": "https://www.facebook.com/MarianVilla"
+  },
+
+  {
     "nombre": "ColCoin Soluciones",
     "fanpageUrl": "https://www.facebook.com/ColCoinSoluciones",
     "webpage": "https://colcoinsolutions.com.co",
