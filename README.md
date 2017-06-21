@@ -10,11 +10,17 @@ La lista está ordeneda alfabeticamente y cada empresa tiene la siguiente inform
 - Usuario: posible CEO y/o Founder (emprendedor), contacto o social media manager
 - Usuario Url: perfil del usuario en Facebook
 
-Datos no recolectados, por completar (se puede automatizar accediendo a las fanpages)
+Datos por recolectar (Se automatizara el proceso)
+
+Facebook:
 
 - likes: numero de likes de la fanpage
 - seguidores
 - puntuación
+
+Google:
+
+- Puntuacion de marca: reclacionado con el SEO de la empresa
 
 Si estás interesado en la información no recolectada deja un comentario diciendo "Si" y dale like al post :smile:
 

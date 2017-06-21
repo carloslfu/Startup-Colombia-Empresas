@@ -1,5 +1,25 @@
 [
   {
+    "nombre": "Aumentada",
+    "fanpageUrl": "https://www.facebook.com/aumentadacol",
+    "webpage": "https://aumentada.net",
+    "usuarioNombre": "Diana Marcela Méndez Figueroa",
+    "usuarioUrl": "https://www.facebook.com/diana.mendez65"
+  },
+  {
+    "nombre": "Apyme",
+    "usuarioNombre": "Manuel Guillermo Gaitan Cuesta",
+    "usuarioUrl": "https://www.facebook.com/manuel.g.cuesta.9"
+  },
+  {
+    "nombre": "Dardo Creativo",
+    "fanpageUrl": "https://www.facebook.com/AgenciadepublicidadDardo",
+    "webpage": "http://www.dardocreativo.com",
+    "usuarioNombre": "Elmer Rodríguez",
+    "usuarioUrl": "https://www.facebook.com/lospilgrims"
+  },
+
+  {
     "nombre": "GRUPO PAAR",
     "fanpageUrl": "https://www.facebook.com/grupopaarsas",
     "webpage": "http://www.paar.com.co",
