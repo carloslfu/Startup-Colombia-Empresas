@@ -1,5 +1,25 @@
 [
   {
+    "nombre": "CaféSinergia",
+    "fanpageUrl": "https://www.facebook.com/cafesinergia",
+    "webpage": "http://www.cafesinergia.com",
+    "usuarioNombre": "JJ Sanchez",
+    "usuarioUrl": "https://www.facebook.com/jjsanchez.idealistica"
+  },
+  {
+    "nombre": "Los Monstruos",
+    "fanpageUrl": "https://www.facebook.com/los.monstruos",
+    "webpage": "http://losmonstruoseducacion.com",
+    "usuarioNombre": "Juan Camilo Vergara Salazar",
+    "usuarioUrl": "https://www.facebook.com/juank.com.co"
+  },
+  {
+    "nombre": "Progressus",
+    "fanpageUrl": "https://www.facebook.com/progressus.com.co",
+    "usuarioNombre": "Adriana Soto Ospina",
+    "usuarioUrl": "https://www.facebook.com/sotoadriana"
+  },
+  {
     "nombre": "Dakio",
     "fanpageUrl": "https://www.facebook.com/weareDakio",
     "webpage": "https://dakio.co",
