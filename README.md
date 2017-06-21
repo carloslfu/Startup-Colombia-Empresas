@@ -6,8 +6,8 @@ La lista está ordeneda alfabeticamente y cada empresa tiene la siguiente inform
 
 - nombre: nombre de la empresa extraido de la URL de Facebook, si es legible (a veces son números)
 - fanpageUrl: URL de fanpage
-- usuarioNombre: perfil de FB (posible CEO o CTO o multioficio ;) (emprendedor)
-- usuarioUrl: perfil de FB (posible CEO o CTO o multioficio ;) (emprendedor)
+- usuarioNombre: perfil de FB, posible CEO o CTO o multioficio ;) (emprendedor)
+- usuarioUrl: perfil de FB, posible CEO o CTO o multioficio ;) (emprendedor)
 
 Datos no recolectados, por completar (se puede automatizar accediendo a las fanpages)
 
