@@ -1,0 +1,920 @@
+
+  Régimen Legal de Bogotá D.C.    © Propiedad de la Secretaría General de la Alcaldía Mayor de Bogotá D.C.
+  Resolución 139 de 2012 Dirección de Impuestos y Aduanas Nacionales
+
+  Fecha de Expedición:  21/11/2012
+  Fecha de Entrada en Vigencia: 01/12/2012
+  Medio de Publicación: Diario Oficial 48622 de noviembre 22 de 2012
+
+
+
+  Ver temas del documento
+  Contenido del Documento
+
+
+
+RESOLUCIÓN 000139 DE 2012
+(Noviembre 21)
+Por la cual la Dirección de Impuestos y Aduanas Nacionales – DIAN, adopta la Clasificación de Actividades Económicas – CIIU revisión 4 adaptada para Colombia.
+EL DIRECTOR GENERAL DE IMPUESTOS Y ADUANAS NACIONALES,
+en uso de sus facultades legales y en especial las conferidas por los artículos 3º y 6º del Decreto 4048 de 2008 y los artículos 555-2 y 612 del Estatuto Tributario, y
+CONSIDERANDO:
+Que el Departamento Administrativo Nacional de Estadística – DANE, mediante Resolución número 66 del 31 de enero de 2012 estableció la Clasificación de Actividades Económicas – CIIU Revisión 4 adaptada para Colombia.
+Que para mantener y garantizar la comparabilidad, calidad e integración de la información estadística, es imperativo que el Gobierno Nacional establezca la Clasificación Industrial Uniforme de todas las Actividades Económicas adaptada para Colombia CIIU Revisión 4, a la cual deben sujetarse tanto los Entes Privados como los Públicos.
+Que en el artículo 2° de la citada resolución el DANE establece: …”El Código de Actividad Económica establecido en la CIIU Rev. 4 A. C., deberá utilizarse de manera obligatoria por todas las entidades de carácter privado o público que produzcan información estadística identificando la actividad económica principal para la asignación correcta del código…”.
+Que para efectos del control y determinación de los impuestos y demás obligaciones tributarias, aduaneras y cambiarias administradas por la Dirección de Impuestos y Aduanas Nacionales - DIAN, es necesario que se adopte la Clasificación de Actividades Económicas CIIU Rev. 4 A.C.
+Que se ha dado cumplimiento a los artículos 3° y 8° de la Ley 1437 de 2011, en desarrollo de los principios de transparencia y publicidad, al recibir de los Directivos y Funcionarios de la Dirección de Impuestos y Aduanas Nacionales y ciudadanía en general; sugerencias, opiniones y propuestas, sobre el texto del presente acto administrativo.
+RESUELVE:
+Artículo 1°. Clasificación de Actividades Económicas que adopta la Dirección de Impuestos y Aduanas Nacionales – DIAN para efectos del control y determinación de los impuestos y demás obligaciones tributarias, aduaneras y cambiarias:
+CLASIFICACIÓN INDUSTRIAL INTERNACIONAL UNIFORME,
+REVISIÓN 4 ADAPTADA PARA COLOMBIA
+CIIU Rev. 4 A.C.
+Sección A. Agricultura, Ganadería, Caza, Silvicultura y Pesca
+(Divisiones 01 A 03)
+División 01. Agricultura, ganadería, caza y actividades de servicios conexas.
+011 Cultivos agrícolas transitorios.
+0111 Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas.
+0112 Cultivo de arroz.
+0113 Cultivo de hortalizas, raíces y tubérculos.
+0114 Cultivo de tabaco.
+0115 Cultivo de plantas textiles.
+0119 Otros cultivos transitorios n.c.p.
+012 Cultivos agrícolas permanentes.
+0121 Cultivo de frutas tropicales y subtropicales.
+0122 Cultivo de plátano y banano.
+0123 Cultivo de café.
+0124 Cultivo de caña de azúcar.
+0125 Cultivo de flor de corte.
+0126 Cultivo de palma para aceite (palma africana) y otros frutos oleaginosos.
+0127 Cultivo de plantas con las que se preparan bebidas.
+0128 Cultivo de especias y de plantas aromáticas y medicinales.
+0129 Otros cultivos permanentes n.c.p.
+013 Propagación de plantas (actividades de los viveros, excepto viveros forestales).
+0130 Propagación de plantas (actividades de los viveros, excepto viveros forestales).
+014 Ganadería.
+0141 Cría de ganado bovino y bufalino.
+0142 Cría de caballos y otros equinos.
+0143 Cría de ovejas y cabras.
+0144 Cría de ganado porcino.
+0145 Cría de aves de corral.
+0149 Cría de otros animales n.c.p.
+015 Explotación mixta (agrícola y pecuaria).
+0150 Explotación mixta (agrícola y pecuaria).
+016 Actividades de apoyo a la agricultura y la ganadería, y actividades posteriores a la cosecha.
+0161 Actividades de apoyo a la agricultura.
+0162 Actividades de apoyo a la ganadería.
+0163 Actividades posteriores a la cosecha.
+0164 Tratamiento de semillas para propagación.
+017 Caza ordinaria y mediante trampas y actividades de servicios conexas.
+0170 Caza ordinaria y mediante trampas y actividades de servicios conexas.
+División 02. Silvicultura y extracción de madera.
+021 Silvicultura y otras actividades forestales.
+0210 Silvicultura y otras actividades forestales.
+022 Extracción de madera.
+0220 Extracción de madera.
+023 Recolección de productos forestales diferentes a la madera.
+0230 Recolección de productos forestales diferentes a la madera.
+024 Servicios de apoyo a la silvicultura.
+0240 Servicios de apoyo a la silvicultura.
+División 03. Pesca y acuicultura.
+031 Pesca.
+0311 Pesca marítima.
+0312 Pesca de agua dulce.
+032 Acuicultura.
+0321 Acuicultura marítima.
+0322 Acuicultura de agua dulce.
+Sección B. Explotación de Minas y Canteras
+(Divisiones 05 A 09)
+División 05. Extracción de carbón de piedra y lignito.
+051 Extracción de hulla (carbón de piedra).
+0510 Extracción de hulla (carbón de piedra).
+052 Extracción de carbón lignito.
+0520 Extracción de carbón lignito.
+División 06. Extracción de petróleo crudo y gas natural.
+061 Extracción de petróleo crudo.
+0610 Extracción de petróleo crudo.
+062 Extracción de gas natural.
+0620 Extracción de gas natural.
+División 07. Extracción de minerales metalíferos.
+071 Extracción de minerales de hierro.
+0710 Extracción de minerales de hierro.
+072 Extracción de minerales metalíferos no ferrosos.
+0721 Extracción de minerales de uranio y de torio.
+0722 Extracción de oro y otros metales preciosos.
+0723 Extracción de minerales de níquel.
+0729 Extracción de otros minerales metalíferos no ferrosos n.c.p.
+División 08. Extracción de otras minas y canteras.
+081 Extracción de piedra, arena, arcillas, cal, yeso, caolín, bentonitas y similares.
+0811 Extracción de piedra, arena, arcillas comunes, yeso y anhidrita.
+0812 Extracción de arcillas de uso industrial, caliza, caolín y bentonitas.
+082 Extracción de esmeraldas, piedras preciosas y semipreciosas.
+0820 Extracción de esmeraldas, piedras preciosas y semipreciosas.
+089 Extracción de otros minerales no metálicos n.c.p.
+0891 Extracción de minerales para la fabricación de abonos y productos químicos.
+0892 Extracción de halita (sal).
+0899 Extracción de otros minerales no metálicos n.c.p.
+División 09. Actividades de servicios de apoyo para la explotación de minas y canteras.
+091 Actividades de apoyo para la extracción de petróleo y de gas natural.
+0910 Actividades de apoyo para la extracción de petróleo y de gas natural.
+099 Actividades de apoyo para otras actividades de explotación de minas y canteras.
+0990 Actividades de apoyo para otras actividades de explotación de minas y canteras.
+Sección C. Industrias Manufactureras
+(divisiones 10 a 33)
+División 10. Elaboración de productos alimenticios.
+101 Procesamiento y conservación de carne, pescado, crustáceos y moluscos.
+1011 Procesamiento y conservación de carne y productos cárnicos.
+1012 Procesamiento y conservación de pescados, crustáceos y moluscos.
+102 Procesamiento y conservación de frutas, legumbres, hortalizas y tubérculos.
+1020 Procesamiento y conservación de frutas, legumbres, hortalizas y tubérculos.
+103 Elaboración de aceites y grasas de origen vegetal y animal.
+1030 Elaboración de aceites y grasas de origen vegetal y animal.
+104 Elaboración de productos lácteos.
+1040 Elaboración de productos lácteos.
+105 Elaboración de productos de molinería, almidones y productos derivados del almidón.
+1051 Elaboración de productos de molinería.
+1052 Elaboración de almidones y productos derivados del almidón.
+106 Elaboración de productos de café.
+1061 Trilla de café.
+1062 Descafeinado, tostión y molienda del café.
+1063 Otros derivados del café.
+107 Elaboración de azúcar y panela.
+1071 Elaboración y refinación de azúcar.
+1072 Elaboración de panela.
+108 Elaboración de otros productos alimenticios.
+1081 Elaboración de productos de panadería.
+1082 Elaboración de cacao, chocolate y productos de confitería.
+1083 Elaboración de macarrones, fideos, alcuzcuz y productos farináceos similares.
+1084 Elaboración de comidas y platos preparados.
+1089 Elaboración de otros productos alimenticios n.c.p.
+109 Elaboración de alimentos preparados para animales.
+1090 Elaboración de alimentos preparados para animales.
+División 11. Elaboración de bebidas.
+110 Elaboración de bebidas.
+1101 Destilación, rectificación y mezcla de bebidas alcohólicas.
+1102 Elaboración de bebidas fermentadas no destiladas.
+1103 Producción de malta, elaboración de cervezas y otras bebidas malteadas.
+1104 Elaboración de bebidas no alcohólicas, producción de aguas minerales y de otras aguas embotelladas.
+División 12. Elaboración de productos de tabaco.
+120 Elaboración de productos de tabaco.
+1200 Elaboración de productos de tabaco.
+División 13. Fabricación de productos textiles.
+131 Preparación, hilatura, tejeduría y acabado de productos textiles.
+1311 Preparación e hilatura de fibras textiles.
+1312 Tejeduría de productos textiles.
+1313 Acabado de productos textiles.
+139 Fabricación de otros productos textiles.
+1391 Fabricación de tejidos de punto y ganchillo.
+1392 Confección de artículos con materiales textiles, excepto prendas de vestir.
+1393 Fabricación de tapetes y alfombras para pisos.
+1394 Fabricación de cuerdas, cordeles, cables, bramantes y redes.
+1399 Fabricación de otros artículos textiles n.c.p.
+División 14. Confección de prendas de vestir.
+141 Confección de prendas de vestir, excepto prendas de piel.
+1410 Confección de prendas de vestir, excepto prendas de piel.
+142 Fabricación de artículos de piel.
+1420 Fabricación de artículos de piel.
+143 Fabricación de artículos de punto y ganchillo.
+1430 Fabricación de artículos de punto y ganchillo.
+División 15. Curtido y recurtido de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería; adobo y teñido de pieles.
+151 Curtido y recurtido de cueros; fabricación de artículos de viaje, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería, adobo y teñido de pieles.
+1511 Curtido y recurtido de cueros; recurtido y teñido de pieles.
+1512 Fabricación de artículos de viaje, bolsos de mano y artículos similares elaborados en cuero, y fabricación de artículos de talabartería y guarnicionería.
+1513 Fabricación de artículos de viaje, bolsos de mano y artículos similares; artículos de talabartería y guarnicionería elaborados en otros materiales.
+152 Fabricación de calzado.
+1521 Fabricación de calzado de cuero y piel, con cualquier tipo de suela.
+1522 Fabricación de otros tipos de calzado, excepto calzado de cuero y piel.
+1523 Fabricación de partes del calzado.
+División 16. Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería.
+161 Aserrado, acepillado e impregnación de la madera.
+1610 Aserrado, acepillado e impregnación de la madera.
+162 Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles.
+1620 Fabricación de hojas de madera para enchapado; fabricación de tableros contra­chapados, tableros laminados, tableros de partículas y otros tableros y paneles.
+163 Fabricación de partes y piezas de madera, de carpintería y ebanistería para la construcción.
+1630 Fabricación de partes y piezas de madera, de carpintería y ebanistería para la construcción.
+164 Fabricación de recipientes de madera.
+1640 Fabricación de recipientes de madera.
+169 Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería.
+1690 Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería.
+División 17. Fabricación de papel, cartón y productos de papel y cartón.
+170 Fabricación de papel, cartón y productos de papel y cartón.
+1701 Fabricación de pulpas (pastas) celulósicas; papel y cartón.
+1702 Fabricación de papel y cartón ondulado (corrugado); fabricación de envases, empaques y de embalajes de papel y cartón.
+1709 Fabricación de otros artículos de papel y cartón.
+División 18. Actividades de impresión y de producción de copias a partir de gra­baciones originales.
+181 Actividades de impresión y actividades de servicios relacionados con la impresión.
+1811 Actividades de impresión.
+1812 Actividades de servicios relacionados con la impresión.
+182 Producción de copias a partir de grabaciones originales.
+1820 Producción de copias a partir de grabaciones originales.
+División 19. Coquización, fabricación de productos de la refinación del petróleo y actividad de mezcla de combustibles.
+191 Fabricación de productos de hornos de coque.
+1910 Fabricación de productos de hornos de coque.
+192 Fabricación de productos de la refinación del petróleo.
+1921 Fabricación de productos de la refinación del petróleo.
+1922 Actividad de mezcla de combustibles.
+División 20. Fabricación de sustancias y productos químicos.
+201 Fabricación de sustancias químicas básicas, abonos y compuestos inorgánicos nitrogenados, plásticos y caucho sintético en formas primarias.
+2011 Fabricación de sustancias y productos químicos básicos.
+2012 Fabricación de abonos y compuestos inorgánicos nitrogenados.
+2013 Fabricación de plásticos en formas primarias.
+2014 Fabricación de caucho sintético en formas primarias.
+202 Fabricación de otros productos químicos.
+2021 Fabricación de plaguicidas y otros productos químicos de uso agropecuario.
+2022 Fabricación de pinturas, barnices y revestimientos similares, tintas para impresión y masillas.
+2023 Fabricación de jabones y detergentes, preparados para limpiar y pulir; perfumes y preparados de tocador.
+2029 Fabricación de otros productos químicos n.c.p.
+203 Fabricación de fibras sintéticas y artificiales.
+2030 Fabricación de fibras sintéticas y artificiales.
+División 21. Fabricación de productos farmacéuticos, sustancias químicas medi­cinales y productos botánicos de uso farmacéutico.
+210 Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico.
+2100 Fabricación de productos farmacéuticos, sustancias químicas medicinales y pro­ductos botánicos de uso farmacéutico.
+División 22. Fabricación de productos de caucho y de plástico.
+221 Fabricación de productos de caucho.
+2211 Fabricación de llantas y neumáticos de caucho
+2212 Reencauche de llantas usadas
+2219 Fabricación de formas básicas de caucho y otros productos de caucho n.c.p.
+222 Fabricación de productos de plástico.
+2221 Fabricación de formas básicas de plástico.
+2229 Fabricación de artículos de plástico n.c.p.
+División 23. Fabricación de otros productos minerales no metálicos.
+231 Fabricación de vidrio y productos de vidrio.
+2310 Fabricación de vidrio y productos de vidrio.
+239 Fabricación de productos minerales no metálicos n.c.p.
+2391 Fabricación de productos refractarios.
+2392 Fabricación de materiales de arcilla para la construcción.
+2393 Fabricación de otros productos de cerámica y porcelana.
+2394 Fabricación de cemento, cal y yeso.
+2395 Fabricación de artículos de hormigón, cemento y yeso.
+2396 Corte, tallado y acabado de la piedra.
+2399 Fabricación de otros productos minerales no metálicos n.c.p.
+División 24. Fabricación de productos metalúrgicos básicos.
+241 Industrias básicas de hierro y de acero.
+2410 Industrias básicas de hierro y de acero.
+242 Industrias básicas de metales preciosos y de metales no ferrosos.
+2421 Industrias básicas de metales preciosos.
+2429 Industrias básicas de otros metales no ferrosos.
+243 Fundición de metales.
+2431 Fundición de hierro y de acero.
+2432 Fundición de metales no ferrosos.
+División 25. Fabricación de productos elaborados de metal, excepto maquinaria y equipo.
+251 Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor.
+2511 Fabricación de productos metálicos para uso estructural.
+2512 Fabricación de tanques, depósitos y recipientes de metal, excepto los utilizados para el envase o transporte de mercancías.
+2513 Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central.
+252 Fabricación de armas y municiones.
+2520 Fabricación de armas y municiones.
+259 Fabricación de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales.
+2591 Forja, prensado, estampado y laminado de metal; pulvimetalurgia.
+2592 Tratamiento y revestimiento de metales; mecanizado.
+2593 Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería.
+2599 Fabricación de otros productos elaborados de metal n.c.p.
+División 26. Fabricación de productos informáticos, electrónicos y ópticos.
+261 Fabricación de componentes y tableros electrónicos.
+2610 Fabricación de componentes y tableros electrónicos.
+262 Fabricación de computadoras y de equipo periférico.
+2620 Fabricación de computadoras y de equipo periférico.
+263 Fabricación de equipos de comunicación.
+2630 Fabricación de equipos de comunicación.
+264 Fabricación de aparatos electrónicos de consumo.
+2640 Fabricación de aparatos electrónicos de consumo.
+265 Fabricación de equipo de medición, prueba, navegación y control; fabricación de relojes.
+2651 Fabricación de equipo de medición, prueba, navegación y control.
+2652 Fabricación de relojes.
+266 Fabricación de equipo de irradiación y equipo electrónico de uso médico y terapéutico.
+2660 Fabricación de equipo de irradiación y equipo electrónico de uso médico y tera­péutico.
+267 Fabricación de instrumentos ópticos y equipo fotográfico.
+2670 Fabricación de instrumentos ópticos y equipo fotográfico.
+268 Fabricación de medios magnéticos y ópticos para almacenamiento de datos.
+2680 Fabricación de medios magnéticos y ópticos para almacenamiento de datos.
+División 27. Fabricación de aparatos y equipo eléctrico.
+271 Fabricación de motores, generadores y transformadores eléctricos y de aparatos de distribución y control de la energía eléctrica.
+2711 Fabricación de motores, generadores y transformadores eléctricos.
+2712 Fabricación de aparatos de distribución y control de la energía eléctrica.
+272 Fabricación de pilas, baterías y acumuladores eléctricos.
+2720 Fabricación de pilas, baterías y acumuladores eléctricos.
+273 Fabricación de hilos y cables aislados y sus dispositivos.
+2731 Fabricación de hilos y cables eléctricos y de fibra óptica.
+2732 Fabricación de dispositivos de cableado.
+274 Fabricación de equipos eléctricos de iluminación.
+2740 Fabricación de equipos eléctricos de iluminación.
+275 Fabricación de aparatos de uso doméstico.
+2750 Fabricación de aparatos de uso doméstico.
+279 Fabricación de otros tipos de equipo eléctrico n.c.p.
+2790 Fabricación de otros tipos de equipo eléctrico n.c.p.
+División 28. Fabricación de maquinaria y equipo n.c.p.
+281 Fabricación de maquinaria y equipo de uso general.
+2811 Fabricación de motores, turbinas, y partes para motores de combustión interna.
+2812 Fabricación de equipos de potencia hidráulica y neumática.
+2813 Fabricación de otras bombas, compresores, grifos y válvulas.
+2814 Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión.
+2815 Fabricación de hornos, hogares y quemadores industriales.
+2816 Fabricación de equipo de elevación y manipulación.
+2817 Fabricación de maquinaria y equipo de oficina (excepto computadoras y equipo periférico).
+2818 Fabricación de herramientas manuales con motor.
+2819 Fabricación de otros tipos de maquinaria y equipo de uso general n.c.p.
+282 Fabricación de maquinaria y equipo de uso especial.
+2821 Fabricación de maquinaria agropecuaria y forestal.
+2822 Fabricación de máquinas formadoras de metal y de máquinas herramienta.
+2823 Fabricación de maquinaria para la metalurgia.
+2824 Fabricación de maquinaria para explotación de minas y canteras y para obras de construcción.
+2825 Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco.
+2826 Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros.
+2829 Fabricación de otros tipos de maquinaria y equipo de uso especial n.c.p.
+División 29. Fabricación de vehículos automotores, remolques y semirremolques.
+291 Fabricación de vehículos automotores y sus motores.
+2910 Fabricación de vehículos automotores y sus motores.
+292 Fabricación de carrocerías para vehículos automotores; fabricación de remol­ques y semirremolques.
+2920 Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques.
+293 Fabricación de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores.
+2930 Fabricación de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores.
+División 30. Fabricación de otros tipos de equipo de transporte.
+301 Construcción de barcos y otras embarcaciones.
+3011 Construcción de barcos y de estructuras flotantes.
+3012 Construcción de embarcaciones de recreo y deporte.
+302 Fabricación de locomotoras y de material rodante para ferrocarriles.
+3020 Fabricación de locomotoras y de material rodante para ferrocarriles.
+303 Fabricación de aeronaves, naves espaciales y de maquinaria conexa.
+3030 Fabricación de aeronaves, naves espaciales y de maquinaria conexa.
+304 Fabricación de vehículos militares de combate.
+3040 Fabricación de vehículos militares de combate.
+309 Fabricación de otros tipos de equipo de transporte n.c.p.
+3091 Fabricación de motocicletas.
+3092 Fabricación de bicicletas y de sillas de ruedas para personas con discapacidad.
+3099 Fabricación de otros tipos de equipo de transporte n.c.p.
+División 31. Fabricación de muebles, colchones y somieres.
+311 Fabricación de muebles.
+3110 Fabricación de muebles.
+312 Fabricación de colchones y somieres.
+3120 Fabricación de colchones y somieres.
+División 32. Otras industrias manufactureras.
+321 Fabricación de joyas, bisutería y artículos conexos.
+3210 Fabricación de joyas, bisutería y artículos conexos.
+322 Fabricación de instrumentos musicales.
+3220 Fabricación de instrumentos musicales.
+323 Fabricación de artículos y equipo para la práctica del deporte.
+3230 Fabricación de artículos y equipo para la práctica del deporte.
+324 Fabricación de juegos, juguetes y rompecabezas.
+3240 Fabricación de juegos, juguetes y rompecabezas.
+325 Fabricación de instrumentos, aparatos y materiales médicos y odontológicos (incluido mobiliario).
+3250 Fabricación de instrumentos, aparatos y materiales médicos y odontológicos (incluido mobiliario).
+329 Otras industrias manufactureras n.c.p.
+3290 Otras industrias manufactureras n.c.p.
+División 33. Instalación, mantenimiento y reparación especializada de maquinaria y equipo.
+331 Mantenimiento y reparación especializado de productos elaborados en metal y de maquinaria y equipo.
+3311 Mantenimiento y reparación especializado de productos elaborados en metal.
+3312 Mantenimiento y reparación especializado de maquinaria y equipo.
+3313 Mantenimiento y reparación especializado de equipo electrónico y óptico.
+3314 Mantenimiento y reparación especializado de equipo eléctrico.
+3315 Mantenimiento y reparación especializado de equipo de transporte, excepto los vehículos automotores, motocicletas y bicicletas.
+3319 Mantenimiento y reparación de otros tipos de equipos y sus componentes n.c.p.
+332 Instalación especializada de maquinaria y equipo industrial.
+3320 Instalación especializada de maquinaria y equipo industrial.
+Sección D. Suministro de Electricidad, Gas,
+Vapor y Aire acondicionado
+(División 35)
+División 35. Suministro de electricidad, gas, vapor y aire acondicionado.
+351 Generación, transmisión, distribución y comercialización de energía eléctrica.
+3511 Generación de energía eléctrica.
+3512 Transmisión de energía eléctrica.
+3513 Distribución de energía eléctrica.
+3514 Comercialización de energía eléctrica.
+352 Producción de gas; distribución de combustibles gaseosos por tuberías.
+3520 Producción de gas; distribución de combustibles gaseosos por tuberías.
+353 Suministro de vapor y aire acondicionado.
+3530 Suministro de vapor y aire acondicionado.
+Sección E. Distribución de Agua; Evacuación y Tratamiento de Aguas Residuales, Gestión de Desechos y Actividades de Saneamiento Ambiental
+(Divisiones 36 a 39)
+División 36. Captación, tratamiento y distribución de agua.
+360 Captación, tratamiento y distribución de agua.
+3600 Captación, tratamiento y distribución de agua.
+División 37. Evacuación y tratamiento de aguas residuales.
+370 Evacuación y tratamiento de aguas residuales.
+3700 Evacuación y tratamiento de aguas residuales.
+División 38. Recolección, tratamiento y disposición de desechos, recuperación de materiales.
+381 Recolección de desechos.
+3811 Recolección de desechos no peligrosos.
+3812 Recolección de desechos peligrosos.
+382 Tratamiento y disposición de desechos.
+3821 Tratamiento y disposición de desechos no peligrosos.
+3822 Tratamiento y disposición de desechos peligrosos.
+383 Recuperación de materiales.
+3830 Recuperación de materiales.
+División 39. Actividades de saneamiento ambiental y otros servicios de gestión de desechos.
+390 Actividades de saneamiento ambiental y otros servicios de gestión de desechos.
+3900 Actividades de saneamiento ambiental y otros servicios de gestión de desechos.
+Sección F. Construcción
+(Divisiones 41 A 43)
+División 41. Construcción de edificios.
+411 Construcción de edificios.
+4111 Construcción de edificios residenciales.
+4112 Construcción de edificios no residenciales.
+División 42. Obras de ingeniería civil.
+421 Construcción de carreteras y vías de ferrocarril.
+4210 Construcción de carreteras y vías de ferrocarril.
+422 Construcción de proyectos de servicio público.
+4220 Construcción de proyectos de servicio público.
+429 Construcción de otras obras de ingeniería civil.
+4290 Construcción de otras obras de ingeniería civil.
+División 43. Actividades especializadas para la construcción de edificios y obras de ingeniería civil.
+431 Demolición y preparación del terreno.
+4311 Demolición.
+4312 Preparación del terreno.
+432 Instalaciones eléctricas, de fontanería y otras instalaciones especializadas.
+4321 Instalaciones eléctricas.
+4322 Instalaciones de fontanería, calefacción y aire acondicionado.
+4329 Otras instalaciones especializadas.
+433 Terminación y acabado de edificios y obras de ingeniería civil.
+4330 Terminación y acabado de edificios y obras de ingeniería civil.
+439 Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil.
+4390 Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil.
+Sección G. Comercio al por mayor y al por menor;
+Reparación de vehículos Automotores y Motocicletas
+(Divisiones 45 A 47)
+División 45. Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios.
+451 Comercio de vehículos automotores.
+4511 Comercio de vehículos automotores nuevos.
+4512 Comercio de vehículos automotores usados.
+452 Mantenimiento y reparación de vehículos automotores.
+4520 Mantenimiento y reparación de vehículos automotores.
+453 Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores.
+4530 Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores.
+454 Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios.
+4541 Comercio de motocicletas y de sus partes, piezas y accesorios.
+4542 Mantenimiento y reparación de motocicletas y de sus partes y piezas.
+46 Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas.
+461 Comercio al por mayor a cambio de una retribución o por contrata.
+4610 Comercio al por mayor a cambio de una retribución o por contrata.
+462 Comercio al por mayor de materias primas agropecuarias; animales vivos.
+4620 Comercio al por mayor de materias primas agropecuarias; animales vivos.
+463 Comercio al por mayor de alimentos, bebidas y tabaco.
+4631 Comercio al por mayor de productos alimenticios.
+4632 Comercio al por mayor de bebidas y tabaco.
+464 Comercio al por mayor de artículos y enseres domésticos (incluidas prendas de vestir).
+4641 Comercio al por mayor de productos textiles, productos confeccionados para uso doméstico.
+4642 Comercio al por mayor de prendas de vestir.
+4643 Comercio al por mayor de calzado.
+4644 Comercio al por mayor de aparatos y equipo de uso doméstico.
+4645 Comercio al por mayor de productos farmacéuticos, medicinales, cosméticos y de tocador.
+4649 Comercio al por mayor de otros utensilios domésticos n.c.p.
+465 Comercio al por mayor de maquinaria y equipo.
+4651 Comercio al por mayor de computadores, equipo periférico y programas de informática.
+4652 Comercio al por mayor de equipo, partes y piezas electrónicos y de telecomuni­caciones.
+4653 Comercio al por mayor de maquinaria y equipo agropecuarios.
+4659 Comercio al por mayor de otros tipos de maquinaria y equipo n.c.p.
+466 Comercio al por mayor especializado de otros productos.
+4661 Comercio al por mayor de combustibles sólidos, líquidos, gaseosos y productos conexos.
+4662 Comercio al por mayor de metales y productos metalíferos.
+4663 Comercio al por mayor de materiales de construcción, artículos de ferretería, pinturas, productos de vidrio, equipo y materiales de fontanería y calefacción.
+4664 Comercio al por mayor de productos químicos básicos, cauchos y plásticos en formas primarias y productos químicos de uso agropecuario.
+4665 Comercio al por mayor de desperdicios, desechos y chatarra.
+4669 Comercio al por mayor de otros productos n.c.p.
+469 Comercio al por mayor no especializado.
+4690 Comercio al por mayor no especializado.
+División 47. Comercio al por menor (incluso el comercio al por menor de combus­tibles), excepto el de vehículos automotores y motocicletas.
+471 Comercio al por menor en establecimientos no especializados.
+4711 Comercio al por menor en establecimientos no especializados con surtido com­puesto principalmente por alimentos, bebidas o tabaco.
+4719 Comercio al por menor en establecimientos no especializados, con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general), bebidas y tabaco.
+472 Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados.
+4721 Comercio al por menor de productos agrícolas para el consumo en establecimientos especializados.
+4722 Comercio al por menor de leche, productos lácteos y huevos, en establecimientos especializados.
+4723 Comercio al por menor de carnes (incluye aves de corral), productos cárnicos, pescados y productos de mar, en establecimientos especializados.
+4724 Comercio al por menor de bebidas y productos del tabaco, en establecimientos especializados.
+4729 Comercio al por menor de otros productos alimenticios n.c.p., en establecimientos especializados.
+473 Comercio al por menor de combustible, lubricantes, aditivos y productos de limpieza para automotores, en establecimientos especializados.
+4731 Comercio al por menor de combustible para automotores.
+4732 Comercio al por menor de lubricantes (aceites, grasas), aditivos y productos de limpieza para vehículos automotores.
+474 Comercio al por menor de equipos de informática y de comunicaciones, en establecimientos especializados.
+4741 Comercio al por menor de computadores, equipos periféricos, programas de informática y equipos de telecomunicaciones en establecimientos especializados.
+4742 Comercio al por menor de equipos y aparatos de sonido y de video, en establecimientos especializados.
+475 Comercio al por menor de otros enseres domésticos en establecimientos especializados.
+4751 Comercio al por menor de productos textiles en establecimientos especializados.
+4752 Comercio al por menor de artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados.
+4753 Comercio al por menor de tapices, alfombras y cubrimientos para paredes y pisos en establecimientos especializados.
+4754 Comercio al por menor de electrodomésticos y gasodomésticos de uso doméstico, muebles y equipos de iluminación.
+4755 Comercio al por menor de artículos y utensilios de uso doméstico.
+4759 Comercio al por menor de otros artículos domésticos en establecimientos especializados.
+476 Comercio al por menor de artículos culturales y de entretenimiento, en establecimientos especializados.
+4761 Comercio al por menor de libros, periódicos, materiales y artículos de papelería y escritorio, en establecimientos especializados.
+4762 Comercio al por menor de artículos deportivos, en establecimientos especializados.
+4769 Comercio al por menor de otros artículos culturales y de entretenimiento n.c.p. en establecimientos especializados.
+477 Comercio al por menor de otros productos en establecimientos especializados.
+4771 Comercio al por menor de prendas de vestir y sus accesorios (incluye artículos de piel) en establecimientos especializados.
+4772 Comercio al por menor de todo tipo de calzado y artículos de cuero y sucedáneos del cuero en establecimientos especializados.
+4773 Comercio al por menor de productos farmacéuticos y medicinales, cosméticos y artículos de tocador en establecimientos especializados.
+4774 Comercio al por menor de otros productos nuevos en establecimientos especializados.
+4775 Comercio al por menor de artículos de segunda mano.
+478 Comercio al por menor en puestos de venta móviles.
+4781 Comercio al por menor de alimentos, bebidas y tabaco, en puestos de venta móviles.
+4782 Comercio al por menor de productos textiles, prendas de vestir y calzado, en puestos de venta móviles.
+4789 Comercio al por menor de otros productos en puestos de venta móviles.
+479 Comercio al por menor no realizado en establecimientos, puestos de venta o mercados.
+4791 Comercio al por menor realizado a través de internet.
+4792 Comercio al por menor realizado a través de casas de venta o por correo.
+4799 Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados.
+Sección H. Transporte y Almacenamiento
+(Divisiones 49 A 53)
+División 49. Transporte terrestre; transporte por tuberías.
+491 Transporte férreo.
+4911 Transporte férreo de pasajeros.
+4912 Transporte férreo de carga.
+492 Transporte terrestre público automotor.
+4921 Transporte de pasajeros.
+4922 Transporte mixto.
+4923 Transporte de carga por carretera.
+493 Transporte por tuberías.
+4930 Transporte por tuberías.
+División 50. Transporte acuático.
+501 Transporte marítimo y de cabotaje.
+5011 Transporte de pasajeros marítimo y de cabotaje.
+5012 Transporte de carga marítimo y de cabotaje.
+502 Transporte fluvial.
+5021 Transporte fluvial de pasajeros.
+5022 Transporte fluvial de carga.
+División 51. Transporte aéreo.
+511 Transporte aéreo de pasajeros.
+5111 Transporte aéreo nacional de pasajeros.
+5112 Transporte aéreo internacional de pasajeros.
+512 Transporte aéreo de carga.
+5121 Transporte aéreo nacional de carga.
+5122 Transporte aéreo internacional de carga.
+División 52. Almacenamiento y actividades complementarias al transporte.
+521 Almacenamiento y depósito.
+5210 Almacenamiento y depósito.
+522 Actividades de las estaciones, vías y servicios complementarios para el transporte.
+5221 Actividades de estaciones, vías y servicios complementarios para el transporte terrestre.
+5222 Actividades de puertos y servicios complementarios para el transporte acuático.
+5223 Actividades de aeropuertos, servicios de navegación aérea y demás actividades conexas al transporte aéreo.
+5224 Manipulación de carga.
+5229 Otras actividades complementarias al transporte.
+División 53. Correo y servicios de mensajería.
+531 Actividades postales nacionales.
+5310 Actividades postales nacionales.
+532 Actividades de mensajería.
+5320 Actividades de mensajería.
+Sección I. Alojamiento y servicios de comida.
+(Divisiones 55 A 56)
+División 55. Alojamiento.
+551 Actividades de alojamiento de estancias cortas.
+5511 Alojamiento en hoteles.
+5512 Alojamiento en apartahoteles.
+5513 Alojamiento en centros vacacionales.
+5514 Alojamiento rural.
+5519 Otros tipos de alojamientos para visitantes.
+552 Actividades de zonas de camping y parques para vehículos recreacionales.
+5520 Actividades de zonas de camping y parques para vehículos recreacionales.
+553 Servicio por horas.
+5530 Servicio por horas
+559 Otros tipos de alojamiento n.c.p.
+5590 Otros tipos de alojamiento n.c.p.
+División 56. Actividades de servicios de comidas y bebidas.
+561 Actividades de restaurantes, cafeterías y servicio móvil de comidas.
+5611 Expendio a la mesa de comidas preparadas.
+5612 Expendio por autoservicio de comidas preparadas.
+5613 Expendio de comidas preparadas en cafeterías.
+5619 Otros tipos de expendio de comidas preparadas n.c.p.
+562 Actividades de catering para eventos y otros servicios de comidas.
+5621 Catering para eventos.
+5629 Actividades de otros servicios de comidas.
+563 Expendio de bebidas alcohólicas para el consumo dentro del establecimiento.
+5630 Expendio de bebidas alcohólicas para el consumo dentro del establecimiento.
+SECCIÓN J. INFORMACIÓN Y COMUNICACIONES
+(DIVISIONES 58 A 63)
+División 58. Actividades de edición.
+581 Edición de libros, publicaciones periódicas y otras actividades de edición.
+5811 Edición de libros.
+5812 Edición de directorios y listas de correo.
+5813 Edición de periódicos, revistas y otras publicaciones periódicas.
+5819 Otros trabajos de edición.
+582 Edición de programas de informática (software).
+5820 Edición de programas de informática (software).
+División 59. Actividades cinematográficas, de video y producción de programas de televisión, grabación de sonido y edición de música.
+591 Actividades de producción de películas cinematográficas, video y producción de programas, anuncios y comerciales de televisión.
+5911 Actividades de producción de películas cinematográficas, videos, programas, anuncios y comerciales de televisión.
+5912 Actividades de posproducción de películas cinematográficas, videos, programas, anuncios y comerciales de televisión.
+5913 Actividades de distribución de películas cinematográficas, videos, programas, anuncios y comerciales de televisión.
+5914 Actividades de exhibición de películas cinematográficas y videos.
+592 Actividades de grabación de sonido y edición de música.
+5920 Actividades de grabación de sonido y edición de música.
+División 60. Actividades de programación, transmisión y/o difusión.
+601 Actividades de programación y transmisión en el servicio de radiodifusión sonora.
+6010 Actividades de programación y transmisión en el servicio de radiodifusión sonora.
+602 Actividades de programación y transmisión de televisión.
+6020 Actividades de programación y transmisión de televisión.
+División 61. Telecomunicaciones.
+611 Actividades de telecomunicaciones alámbricas.
+6110 Actividades de telecomunicaciones alámbricas.
+612 Actividades de telecomunicaciones inalámbricas.
+6120 Actividades de telecomunicaciones inalámbricas.
+613 Actividades de telecomunicación satelital.
+6130 Actividades de telecomunicación satelital.
+619 Otras actividades de telecomunicaciones.
+6190 Otras actividades de telecomunicaciones.
+División 62. Desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas), consultoría informática y actividades relacionadas.
+620 Desarrollo de sistemas informáticos (planificación, análisis, diseño, programa­ción, pruebas), consultoría informática y actividades relacionadas.
+6201 Actividades de desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas).
+6202 Actividades de consultoría informática y actividades de administración de instalaciones informáticas.
+6209 Otras actividades de tecnologías de información y actividades de servicios informáticos.
+División 63. Actividades de servicios de información.
+631 Procesamiento de datos, alojamiento (hosting) y actividades relacionadas; portales web.
+6311 Procesamiento de datos, alojamiento (hosting) y actividades relacionadas.
+6312 Portales web.
+639 Otras actividades de servicio de información.
+6391 Actividades de agencias de noticias.
+6399 Otras actividades de servicio de información n.c.p.
+Sección K. Actividades Financieras y de Seguros
+(Divisiones 64 A 66)
+División 64. Actividades de servicios financieros, excepto las de seguros y de pensiones.
+641 Intermediación monetaria.
+6411 Banco Central.
+6412 Bancos comerciales.
+642 Otros tipos de intermediación monetaria.
+6421 Actividades de las corporaciones financieras.
+6422 Actividades de las compañías de financiamiento.
+6423 Banca de segundo piso.
+6424 Actividades de las cooperativas financieras.
+643 Fideicomisos, fondos (incluye fondos de cesantías) y entidades financieras similares.
+6431 Fideicomisos, fondos y entidades financieras similares.
+6432 Fondos de cesantías.
+649 Otras actividades de servicio financiero, excepto las de seguros y pensiones.
+6491 Leasing financiero (arrendamiento financiero).
+6492 Actividades financieras de fondos de empleados y otras formas asociativas del sector solidario.
+6493 Actividades de compra de cartera o factoring.
+6494 Otras actividades de distribución de fondos.
+6495 Instituciones especiales oficiales.
+6499 Otras actividades de servicio financiero, excepto las de seguros y pensiones n.c.p.
+División 65. Seguros (incluso el reaseguro), seguros sociales y fondos de pensiones, excepto la seguridad social.
+651 Seguros y capitalización.
+6511 Seguros generales.
+6512 Seguros de vida.
+6513 Reaseguros.
+6514 Capitalización.
+652 Servicios de seguros sociales de salud y riesgos profesionales.
+6521 Servicios de seguros sociales de salud.
+6522 Servicios de seguros sociales de riesgos profesionales.
+653 Servicios de seguros sociales de pensiones.
+6531 Régimen de prima media con prestación definida (RPM).
+6532 Régimen de ahorro individual (RAI).
+División 66. Actividades auxiliares de las actividades de servicios financieros.
+661 Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y pensiones.
+6611 Administración de mercados financieros.
+6612 Corretaje de valores y de contratos de productos básicos.
+6613 Otras actividades relacionadas con el mercado de valores.
+6614 Actividades de las casas de cambio.
+6615 Actividades de los profesionales de compra y venta de divisas.
+6619 Otras actividades auxiliares de las actividades de servicios financieros n.c.p.
+662 Actividades de servicios auxiliares de los servicios de seguros y pensiones.
+6621 Actividades de agentes y corredores de seguros
+6629 Evaluación de riesgos y daños, y otras actividades de servicios auxiliares
+663 Actividades de administración de fondos.
+6630 Actividades de administración de fondos.
+Sección L. Actividades Inmobiliarias
+(División 68)
+División 68. Actividades inmobiliarias.
+681 Actividades inmobiliarias realizadas con bienes propios o arrendados.
+6810 Actividades inmobiliarias realizadas con bienes propios o arrendados.
+682 Actividades inmobiliarias realizadas a cambio de una retribución o por contrata.
+6820 Actividades inmobiliarias realizadas a cambio de una retribución o por contrata.
+Sección M. Actividades Profesionales, Científicas y Técnicas
+(Divisiones 69 A 75)
+División 69. Actividades jurídicas y de contabilidad.
+691 Actividades jurídicas.
+6910 Actividades jurídicas.
+692 Actividades de contabilidad, teneduría de libros, auditoría financiera y asesoría tributaria.
+6920 Actividades de contabilidad, teneduría de libros, auditoría financiera y asesoría tributaria.
+División 70. Actividades de administración empresarial; actividades de consultoría de gestión.
+701 Actividades de administración empresarial.
+7010 Actividades de administración empresarial.
+702 Actividades de consultaría de gestión.
+7020 Actividades de consultaría de gestión.
+División 71. Actividades de arquitectura e ingeniería; ensayos y análisis técnicos.
+711 Actividades de arquitectura e ingeniería y otras actividades conexas de consultoría técnica.
+7110 Actividades de arquitectura e ingeniería y otras actividades conexas de consultoría técnica.
+712 Ensayos y análisis técnicos.
+7120 Ensayos y análisis técnicos.
+División 72. Investigación científica y desarrollo.
+721 Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería.
+7210 Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería.
+722 Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades.
+7220 Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades.
+División 73. Publicidad y estudios de mercado.
+731 Publicidad.
+7310 Publicidad.
+732 Estudios de mercado y realización de encuestas de opinión pública.
+7320 Estudios de mercado y realización de encuestas de opinión pública.
+División 74. Otras actividades profesionales, científicas y técnicas.
+741 Actividades especializadas de diseño.
+7410 Actividades especializadas de diseño.
+742 Actividades de fotografía.
+7420 Actividades de fotografía.
+749 Otras actividades profesionales, científicas y técnicas n.c.p.
+7490 Otras actividades profesionales, científicas y técnicas n.c.p.
+División 75. Actividades veterinarias.
+750 Actividades veterinarias.
+7500 Actividades veterinarias.
+Sección N. Actividades de Servicios
+Administrativos y de Apoyo
+(Divisiones 77 A 82)
+División 77. Actividades de alquiler y arrendamiento.
+771 Alquiler y arrendamiento de vehículos automotores.
+7710 Alquiler y arrendamiento de vehículos automotores.
+772 Alquiler y arrendamiento de efectos personales y enseres domésticos.
+7721 Alquiler y arrendamiento de equipo recreativo y deportivo.
+7722 Alquiler de videos y discos.
+7729 Alquiler y arrendamiento de otros efectos personales y enseres domésticos n.c.p.
+773 Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p.
+7730 Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p.
+774 Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor.
+7740 Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor.
+División 78. Actividades de empleo.
+781 Actividades de agencias de empleo.
+7810 Actividades de agencias de empleo.
+782 Actividades de agencias de empleo temporal.
+7820 Actividades de agencias de empleo temporal.
+783 Otras actividades de suministro de recurso humano.
+7830 Otras actividades de suministro de recurso humano.
+División 79. Actividades de las agencias de viajes, operadores turísticos, servicios de reserva y actividades relacionadas.
+791 Actividades de las agencias de viajes y operadores turísticos.
+7911 Actividades de las agencias de viaje.
+7912 Actividades de operadores turísticos.
+799 Otros servicios de reserva y actividades relacionadas.
+7990 Otros servicios de reserva y actividades relacionadas.
+División 80. Actividades de seguridad e investigación privada.
+801 Actividades de seguridad privada.
+8010 Actividades de seguridad privada.
+802 Actividades de servicios de sistemas de seguridad.
+8020 Actividades de servicios de sistemas de seguridad.
+803 Actividades de detectives e investigadores privados.
+8030 Actividades de detectives e investigadores privados.
+División 81. Actividades de servicios a edificios y paisajismo (jardines, zonas verdes).
+811 Actividades combinadas de apoyo a instalaciones.
+8110 Actividades combinadas de apoyo a instalaciones.
+812 Actividades de limpieza.
+8121 Limpieza general interior de edificios.
+8129 Otras actividades de limpieza de edificios e instalaciones industriales.
+813 Actividades de paisajismo y servicios de mantenimiento conexos.
+8130 Actividades de paisajismo y servicios de mantenimiento conexos.
+División 82. Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas.
+821 Actividades administrativas y de apoyo de oficina.
+8211 Actividades combinadas de servicios administrativos de oficina.
+8219 Fotocopiado, preparación de documentos y otras actividades especializadas de apoyo a oficina.
+822 Actividades de centros de llamadas (Call center).
+8220 Actividades de centros de llamadas (Call center).
+823 Organización de convenciones y eventos comerciales.
+8230 Organización de convenciones y eventos comerciales.
+829 Actividades de servicios de apoyo a las empresas n.c.p.
+8291 Actividades de agencias de cobranza y oficinas de calificación crediticia.
+8292 Actividades de envase y empaque.
+8299 Otras actividades de servicio de apoyo a las empresas n.c.p.
+Sección O. Administración Pública y Defensa; Planes de Seguridad Social de Afiliación Obligatoria
+(División 84)
+División 84. Administración pública y defensa; planes de seguridad social de afiliación obligatoria.
+841 Administración del Estado y aplicación de la política económica y social de la comunidad.
+8411 Actividades legislativas de la administración pública.
+8412 Actividades ejecutivas de la administración pública.
+8413 Regulación de las actividades de organismos que prestan servicios de salud, edu­cativos, culturales y otros servicios sociales, excepto servicios de seguridad social.
+8414 Actividades reguladoras y facilitadoras de la actividad económica.
+8415 Actividades de los otros órganos de control.
+842 Prestación de servicios a la comunidad en general.
+8421 Relaciones exteriores.
+8422 Actividades de defensa.
+8423 Orden público y actividades de seguridad.
+8424 Administración de justicia.
+843 Actividades de planes de seguridad social de afiliación obligatoria.
+8430 Actividades de planes de seguridad social de afiliación obligatoria.
+Sección P. Educación
+(División 85)
+División 85. Educación.
+851 Educación de la primera infancia, preescolar y básica primaria.
+8511 Educación de la primera infancia.
+8512 Educación preescolar.
+8513 Educación básica primaria.
+852 Educación secundaria y de formación laboral.
+8521 Educación básica secundaria.
+8522 Educación media académica.
+8523 Educación media técnica y de formación laboral.
+853 Establecimientos que combinan diferentes niveles de educación.
+8530 Establecimientos que combinan diferentes niveles de educación.
+854 Educación superior.
+8541 Educación técnica profesional.
+8542 Educación tecnológica.
+8543 Educación de instituciones universitarias o de escuelas tecnológicas.
+8544 Educación de universidades.
+855 Otros tipos de educación.
+8551 Formación académica no formal.
+8552 Enseñanza deportiva y recreativa.
+8553 Enseñanza cultural.
+8559 Otros tipos de educación n.c.p.
+856 Actividades de apoyo a la educación.
+8560 Actividades de apoyo a la educación.
+Sección Q. Actividades de Atención de la Salud
+Humana y de Asistencia Social
+(Divisiones 86 A 88)
+División 86. Actividades de atención de la salud humana.
+861 Actividades de hospitales y clínicas, con internación.
+8610 Actividades de hospitales y clínicas, con internación.
+862 Actividades de práctica médica y odontológica, sin internación.
+8621 Actividades de la práctica médica, sin internación.
+8622 Actividades de la práctica odontológica.
+869 Otras actividades de atención relacionadas con la salud humana.
+8691 Actividades de apoyo diagnóstico.
+8692 Actividades de apoyo terapéutico.
+8699 Otras actividades de atención de la salud humana.
+División 87. Actividades de atención residencial medicalizada.
+871 Actividades de atención residencial medicalizada de tipo general.
+8710 Actividades de atención residencial medicalizada de tipo general.
+872 Actividades de atención residencial, para el cuidado de pacientes con retardo mental, enfermedad mental y consumo de sustancias psicoactivas.
+8720 Actividades de atención residencial, para el cuidado de pacientes con retardo mental, enfermedad mental y consumo de sustancias psicoactivas.
+873 Actividades de atención en instituciones para el cuidado de personas mayores y/o discapacitadas.
+8730 Actividades de atención en instituciones para el cuidado de personas mayores y/o discapacitadas.
+879 Otras actividades de atención en instituciones con alojamiento.
+8790 Otras actividades de atención en instituciones con alojamiento
+División 88. Actividades de asistencia social sin alojamiento.
+881 Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas.
+8810 Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas.
+889 Otras actividades de asistencia social sin alojamiento.
+8890 Otras actividades de asistencia social sin alojamiento.
+Sección R. Actividades Artísticas, de
+Entretenimiento y Recreación
+(Divisiones 90 A 93)
+División 90. Actividades creativas, artísticas y de entretenimiento.
+900 Actividades creativas, artísticas y de entretenimiento.
+9001 Creación literaria.
+9002 Creación musical.
+9003 Creación teatral.
+9004 Creación audiovisual.
+9005 Artes plásticas y visuales.
+9006 Actividades teatrales.
+9007 Actividades de espectáculos musicales en vivo.
+9008 Otras actividades de espectáculos en vivo.
+División 91. Actividades de bibliotecas, archivos, museos y otras actividades culturales.
+910 Actividades de bibliotecas, archivos, museos y otras actividades culturales.
+9101 Actividades de bibliotecas y archivos.
+9102 Actividades y funcionamiento de museos, conservación de edificios y sitios históricos.
+9103 Actividades de jardines botánicos, zoológicos y reservas naturales.
+División 92. Actividades de juegos de azar y apuestas.
+920 Actividades de juegos de azar y apuestas.
+9200 Actividades de juegos de azar y apuestas.
+División 93. Actividades deportivas y actividades recreativas y de esparcimiento.
+931 Actividades deportivas.
+9311 Gestión de instalaciones deportivas.
+9312 Actividades de clubes deportivos.
+9319 Otras actividades deportivas.
+932 Otras actividades recreativas y de esparcimiento.
+9321 Actividades de parques de atracciones y parques temáticos.
+9329 Otras actividades recreativas y de esparcimiento n.c.p.
+Sección S. otras Actividades de Servicios
+(Divisiones 94 A 96)
+División 94. Actividades de asociaciones.
+941 Actividades de asociaciones empresariales y de empleadores, y asociaciones profesionales.
+9411 Actividades de asociaciones empresariales y de empleadores
+9412 Actividades de asociaciones profesionales
+942 Actividades de sindicatos de empleados.
+9420 Actividades de sindicatos de empleados.
+949 Actividades de otras asociaciones.
+9491 Actividades de asociaciones religiosas.
+9492 Actividades de asociaciones políticas.
+9499 Actividades de otras asociaciones n.c.p.
+División 95. Mantenimiento y reparación de computadores, efectos personales y enseres domésticos.
+951 Mantenimiento y reparación de computadores y equipo de comunicaciones.
+9511 Mantenimiento y reparación de computadores y de equipo periférico.
+9512 Mantenimiento y reparación de equipos de comunicación.
+952 Mantenimiento y reparación de efectos personales y enseres domésticos.
+9521 Mantenimiento y reparación de aparatos electrónicos de consumo.
+9522 Mantenimiento y reparación de aparatos y equipos domésticos y de jardinería.
+9523 Reparación de calzado y artículos de cuero.
+9524 Reparación de muebles y accesorios para el hogar.
+9529 Mantenimiento y reparación de otros efectos personales y enseres domésticos.
+División 96. Otras actividades de servicios personales.
+960 Otras actividades de servicios personales.
+9601 Lavado y limpieza, incluso la limpieza en seco, de productos textiles y de piel.
+9602 Peluquería y otros tratamientos de belleza.
+9603 Pompas fúnebres y actividades relacionadas.
+9609 Otras actividades de servicios personales n.c.p.
+Sección T. Actividades de los Hogares Individuales en Calidad de Empleadores; Actividades No Diferenciadas de los Hogares Individuales como Productores de Bienes y Servicios para uso Propio.
+(Divisiones 97 A 98)
+División 97. Actividades de los hogares individuales como empleadores de personal doméstico.
+970 Actividades de los hogares individuales como empleadores de personal doméstico.
+9700 Actividades de los hogares individuales como empleadores de personal doméstico.
+División 98. Actividades no diferenciadas de los hogares individuales como productores de bienes y servicios para uso propio.
+981 Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio.
+9810 Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio.
+982 Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio.
+9820 Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio.
+Sección U. Actividades de Organizaciones y
+Entidades Extraterritoriales
+(División 99)
+División 99. Actividades de organizaciones y entidades extraterritoriales.
+990 Actividades de organizaciones y entidades extraterritoriales.
+9900 Actividades de organizaciones y entidades extraterritoriales.
+Otras Clasificaciones
+Es necesario anotar que estas “Otras Clasificaciones” no son parte de la CIIU Rev. 4 A.C., son establecidas por la Dirección de Impuestos y Aduanas Nacionales - DIAN para propósitos de control, determinación de los impuestos y demás obligaciones tributarias, aduaneras y cambiarias, de su competencia.
+0010 Asalariados
+Personas naturales cuyos ingresos provengan de la relación laboral, legal o reglamentaria o tenga su origen en ella.
+0081 Personas Naturales sin Actividad Económica
+Personas naturales o sucesiones ilíquidas, que sin percibir ingresos y/o recibir recursos provenientes de terceros, se encuentran obligados a presentar declaración del impuesto de renta y complementarios de acuerdo con los parámetros establecidos por ley; así como aquellas personas, que registraron una actividad económica y dejan de ejercerla con razón plenamente justificada.
+0082 Personas Naturales Subsidiadas por Terceros
+Personas naturales que reciben recursos otorgados por terceros, que aún sin tener ingresos objeto de una relación laboral o como rentista de capital, se encuentran obligados a presentar declaración del impuesto de renta y complementarios de acuerdo con los parámetros establecidos por ley; así como aquellas personas, que registraron una actividad económica, dejan de ejercerla y sus recursos en la actualidad provienen de terceros.
+0090 Rentistas de Capital, solo para personas naturales.
+Personas naturales o sucesiones ilíquidas cuyos ingresos provienen de intereses, descuentos, beneficios, ganancias, utilidades y en general, todo cuanto represente rendimiento de capital o diferencia entre el valor invertido o aportado, y el valor futuro y/o pagado o abonado al aportante o inversionista.
+
+
