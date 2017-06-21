@@ -1,15 +1,13 @@
 # Lista de empresas de Startup Colombia
 
-Lista de empresas que participan en [Startup Colombia](https://www.facebook.com/groups/startupco).
-
-La lista está ordeneda alfabeticamente y cada empresa tiene la siguiente informacion:
+Lista de empresas que participan en [Startup Colombia](https://www.facebook.com/groups/startupco). La lista está ordeneda alfabeticamente y cada empresa tiene la siguiente informacion:
 
 - Nombre de la empresa
 - Fanpage Url
 - Pagina Web
 - Usuario: posible CEO y/o Founder (emprendedor), contacto o social media manager
 - Usuario Url: perfil del usuario en Facebook
-- Email de contacto (por completar ... próximamente)
+- Email de contacto (por completar ... próximamente ...)
 
 Datos por recolectar (Se automatizara el proceso):
 
@@ -24,7 +22,7 @@ Si estás interesado en la información no recolectada deja un comentario dicien
 
 Si tu empresa no está en la lista escríbela en el post de Facebook, la idea es completar la lista :heart:
 
-La lista inicialmente fue tomada de [este post](https://www.facebook.com/groups/startupco/permalink/1359283507442442/) y la realize con el código que se encuentra [aquí](https://github.com/carloslfu/Startup-Colombia-Empresas/blob/master/script.js). Si estás interesado en recolección automatizada de información en internet me puedes contactar a mi correo electrónico carloslfu@gmail.com
+Mira la [Hoja de ruta de este repositorio](https://github.com/carloslfu/Startup-Colombia-Empresas/blob/master/HOJADERUTA.md)
 
 ## 1. 10Entrepreneurs.com
 - Fanpage Url: [https://www.facebook.com/10entrepreneurs](https://www.facebook.com/10entrepreneurs)
