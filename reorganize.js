@@ -33,6 +33,7 @@ strGithub += '\n\n## ' + (i + 1) + '. ' + empresa.nombre
   + (empresa.webpage ? '\n- Página Web: [' + empresa.webpage + '](' + empresa.webpage + ')' : '')
   + '\n- Usuario: ' + empresa.usuarioNombre
   + '\n- Usuario Url: [' + empresa.usuarioUrl + '](' + empresa.usuarioUrl + ')'
+  + (empresa.email ? '\n- Página Web: [' + empresa.email + '](' + empresa.email + ')' : '')
 }
 
 fs.unlink('./listaGithub', err => {
