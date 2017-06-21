@@ -2,7 +2,7 @@
 
 ## Categorizar
 
-Adaptado de la respuesta de @josenobile en el [post](https://www.facebook.com/groups/startupco/permalink/1359283507442442/) de Facebook:
+Adaptado de la respuesta de [Jose Nobile](https://github.com/josenobile) en el [post](https://www.facebook.com/groups/startupco/permalink/1359283507442442/) de Facebook:
 
 - Desarrollo de Producto
   - Diseño de páginas Web
