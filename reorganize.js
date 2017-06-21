@@ -35,9 +35,9 @@ strGithub += '\n\n## ' + (i + 1) + '. ' + empresa.nombre
   + '\n- Usuario Url: [' + empresa.usuarioUrl + '](' + empresa.usuarioUrl + ')'
 }
 
-fs.unlink('./listGithub', err => {
-  fs.writeFile('./listGithub', strGithub, { flag: 'wx' }, err => {
+fs.unlink('./listaGithub', err => {
+  fs.writeFile('./listaGithub', strGithub, { flag: 'wx' }, err => {
     if (err) throw err
-    console.log('Guardado en archivo listGithub')
+    console.log('Guardado en archivo listaGithub')
   })
 })

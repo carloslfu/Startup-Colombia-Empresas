@@ -633,25 +633,31 @@ Mira la [Hoja de ruta de este repositorio](https://github.com/carloslfu/Startup-
 - Usuario: Ulises Rodríguez Utria
 - Usuario Url: [https://www.facebook.com/Deshinvirse](https://www.facebook.com/Deshinvirse)
 
-## 109. VELASQUEZ NARANJO Y COMPAÑIA
+## 109. VALOPES
+- Fanpage Url: [https://www.facebook.com/VAL0PES](https://www.facebook.com/VAL0PES)
+- Página Web: [http://www.valopes.com](http://www.valopes.com)
+- Usuario: Octavio Torres Quintana
+- Usuario Url: [https://www.facebook.com/OctavioTorresQ](https://www.facebook.com/OctavioTorresQ)
+
+## 110. VELASQUEZ NARANJO Y COMPAÑIA
 - Fanpage Url: [https://www.facebook.com/venaycia](https://www.facebook.com/venaycia)
 - Página Web: [http://venaycia.com](http://venaycia.com)
 - Usuario: Alvaro Velasquez
 - Usuario Url: [https://www.facebook.com/alvaro.velasquez.315](https://www.facebook.com/alvaro.velasquez.315)
 
-## 110. Versus
+## 111. Versus
 - Fanpage Url: [https://www.facebook.com/deporteversus](https://www.facebook.com/deporteversus)
 - Página Web: [http://www.deporteversus.com](http://www.deporteversus.com)
 - Usuario: Felipe Grisales
 - Usuario Url: [https://www.facebook.com/juangrisalestv](https://www.facebook.com/juangrisalestv)
 
-## 111. Virtual Reality Concepts
+## 112. Virtual Reality Concepts
 - Fanpage Url: [https://www.facebook.com/VirtualRealityConcepts](https://www.facebook.com/VirtualRealityConcepts)
 - Página Web: [http://www.vrc.net.co/](http://www.vrc.net.co/)
 - Usuario: John H. Rodriguez
 - Usuario Url: [https://www.facebook.com/john.h.rodriguez](https://www.facebook.com/john.h.rodriguez)
 
-## 112. World Tech Makers
+## 113. World Tech Makers
 - Fanpage Url: [https://www.facebook.com/worldtechmakers/](https://www.facebook.com/worldtechmakers/)
 - Usuario: Jorge Yepes
 - Usuario Url: [https://www.facebook.com/georgeyepez](https://www.facebook.com/georgeyepez)
