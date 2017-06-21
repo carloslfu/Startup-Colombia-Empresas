@@ -1,5 +1,19 @@
 [
   {
+    "nombre": "Cambly",
+    "fanpageUrl": "https://www.facebook.com/camblyapp",
+    "webpage": "https://www.cambly.com",
+    "usuarioNombre": "Karen Acosta Parra",
+    "usuarioUrl": "https://www.facebook.com/karen.acosta82"
+  },
+  {
+    "nombre": "Grupo BitCow",
+    "fanpageUrl": "https://www.facebook.com/grupobitcow",
+    "webpage": "http://grupobitcow.com",
+    "usuarioNombre": "Julian Vergara Lorduy",
+    "usuarioUrl": "https://www.facebook.com/julian.kubo"
+  },
+  {
     "nombre": "Platzi",
     "fanpageUrl": "https://www.facebook.com/platzi",
     "webpage": "https://platzi.com",
