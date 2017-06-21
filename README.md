@@ -1,6 +1,6 @@
 # Lista de empresas de Startup Colombia
 
-Lista de empresas que participan en [Startup Colombia](https://www.facebook.com/groups/startupco). La lista está ordeneda alfabeticamente y cada empresa tiene la siguiente informacion:
+Lista de empresas que participan en [Startup Colombia](https://www.facebook.com/groups/startupco). La lista está ordenada alfabeticamente y cada empresa tiene la siguiente informacion:
 
 - Nombre de la empresa
 - Fanpage Url
