@@ -1,5 +1,25 @@
 [
   {
+    "nombre": "Fucsia",
+    "fanpageUrl": "https://www.facebook.com/RevistaFucsia",
+    "webpage": "http://www.fucsia.co",
+    "usuarioNombre": "Tatiana Fontalvo",
+    "usuarioUrl": "https://www.facebook.com/tatiana.fontalvo.50"
+  },
+  {
+    "nombre": "Pryor & Pryor Abogados",
+    "webpage": "http://pryor.com.co",
+    "usuarioNombre": "Juan Pryor",
+    "usuarioUrl": "https://www.facebook.com/juan.pryor"
+  },
+  {
+    "nombre": "Mesfix",
+    "fanpageUrl": "https://www.facebook.com/MesfixSAS",
+    "webpage": "https://www.mesfix.com",
+    "usuarioNombre": "Felipe Tascon Ortiz",
+    "usuarioUrl": "https://www.facebook.com/felipe.t.ortiz.5"
+  },
+  {
     "nombre": "Neumarket Colombia",
     "fanpageUrl": "https://www.facebook.com/Neumarket",
     "webpage": "http://www.neumarket.com",
