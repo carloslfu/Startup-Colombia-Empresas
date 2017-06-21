@@ -9,18 +9,16 @@ La lista está ordeneda alfabeticamente y cada empresa tiene la siguiente inform
 - Pagina Web
 - Usuario: posible CEO y/o Founder (emprendedor), contacto o social media manager
 - Usuario Url: perfil del usuario en Facebook
+- Email de contacto (por completar ... próximamente)
 
-Datos por recolectar (Se automatizara el proceso)
+Datos por recolectar (Se automatizara el proceso):
 
-Facebook:
-
-- likes: numero de likes de la fanpage
-- seguidores
-- puntuación
-
-Google:
-
-- Puntuacion de marca: reclacionado con el SEO de la empresa
+- Facebook:
+  - likes del fanpage
+  - numero de seguidores
+  - puntuación
+- Google:
+  - Puntuacion de marca: reclacionado con el SEO de la empresa
 
 Si estás interesado en la información no recolectada deja un comentario diciendo "Si" y dale like al post :smile:
 
@@ -268,6 +266,7 @@ La lista inicialmente fue tomada de [este post](https://www.facebook.com/groups/
 - Página Web: [http://www.getinsolutions.com](http://www.getinsolutions.com)
 - Usuario: Wilton Loaiza
 - Usuario Url: [https://www.facebook.com/wilton.loaiza](https://www.facebook.com/wilton.loaiza)
+- Email: wloaiza@getinsolutions.com
 
 ## 43. GleamSoft
 - Fanpage Url: [https://www.facebook.com/GleamSoft/](https://www.facebook.com/GleamSoft/)
