@@ -1,5 +1,26 @@
 [
   {
+    "nombre": "Ubidots",
+    "fanpageUrl": "https://www.facebook.com/ubidots",
+    "webpage": "https://ubidots.com",
+    "usuarioNombre": "Agustín Peláez",
+    "usuarioUrl": "https://www.facebook.com/agustin.pelaez"
+  },
+  {
+    "nombre": "Proyectos Tecnologicos Innovadores",
+    "fanpageUrl": "https://www.facebook.com/proyetinn",
+    "webpage": "http://www.proyetinn.com",
+    "usuarioNombre": "Juan Diego Castaño",
+    "usuarioUrl": "https://www.facebook.com/juandiego.castano"
+  },
+  {
+    "nombre": "DyMarketing",
+    "fanpageUrl": "https://www.facebook.com/DyMarketingCo",
+    "webpage": "https://dymarketing.co",
+    "usuarioNombre": "Juan D Castro",
+    "usuarioUrl": "https://www.facebook.com/JuanDCastroC"
+  },
+  {
     "nombre": "Digital Dreams Co",
     "fanpageUrl": "https://www.facebook.com/digitaldreamsco",
     "webpage": "http://www.digitaldreams.co",
