@@ -52,7 +52,7 @@ function procesarDatos (txt) {
       } else {
         actividad = parts[0]
         parts.shift()
-        res[seccion].divisiones[division].subdivisiones[subdivision].actividades[actividad] = { titulo: parts.join(' ') }
+        res[seccion].divisiones[division].subdivisiones[subdivision].actividades[actividad] = parts.join(' ')
       }
     }
   }
