@@ -1,5 +1,23 @@
 [
   {
+    "nombre": "TPaga",
+    "fanpageUrl": "https://www.facebook.com/tpaga.co",
+    "webpage": "https://tpaga.co"
+  },
+  {
+    "nombre": "INCL International S.A.S.",
+    "webpage": "http://www.incline.com.co",
+    "usuarioNombre": "Victoria Gonzalez Suarez",
+    "usuarioUrl": "https://www.facebook.com/vickykeropi"
+  },
+  {
+    "nombre": "SOLUTECIA S.A.S.",
+    "fanpageUrl": "https://www.facebook.com/solutecia",
+    "webpage": "https://www.solutecia.com",
+    "usuarioNombre": "Iván Javier Londoño Rueda",
+    "usuarioUrl": "https://www.facebook.com/ivanjavierlondonorueda"
+  },
+  {
     "nombre": "Alojapp",
     "fanpageUrl": "https://www.facebook.com/alojapp",
     "webpage": "https://www.alojapp.com",
@@ -531,8 +549,9 @@
     "usuarioUrl": "https://www.facebook.com/cristian.cortes.777"
   },
   {
-    "nombre": "ListaEnCasa",
-    "fanpageUrl": "https://www.facebook.com/ListaEnCasa/",
+    "nombre": "Lista en Casa",
+    "fanpageUrl": "https://www.facebook.com/ListaEnCasa",
+    "webpage": "https://listaencasa.com",
     "usuarioNombre": "Diego Alejandro Paez",
     "usuarioUrl": "https://www.facebook.com/diego.alejojo"
   },

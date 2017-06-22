@@ -31,8 +31,8 @@ for (var i = 0, empresa; empresa = empresasNoDupOrd[i]; i++) {
 strGithub += '\n\n## ' + (i + 1) + '. ' + empresa.nombre
   + (empresa.fanpageUrl ? '\n- Fanpage Url: [' + empresa.fanpageUrl + '](' + empresa.fanpageUrl + ')' : '')
   + (empresa.webpage ? '\n- Página Web: [' + empresa.webpage + '](' + empresa.webpage + ')' : '')
-  + '\n- Usuario: ' + empresa.usuarioNombre
-  + '\n- Usuario Url: [' + empresa.usuarioUrl + '](' + empresa.usuarioUrl + ')'
+  + (empresa.usuarioNombre ? '\n- Usuario: ' + empresa.usuarioNombre : '')
+  + (empresa.usuarioUrl ? '\n- Usuario Url: [' + empresa.usuarioUrl + '](' + empresa.usuarioUrl + ')': '')
 }
 
 fs.unlink('./listaGithub', err => {
