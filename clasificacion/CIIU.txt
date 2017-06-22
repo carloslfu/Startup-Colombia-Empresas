@@ -1,5 +1,4 @@
 Sección A. Agricultura, Ganadería, Caza, Silvicultura y Pesca
-(Divisiones 01 A 03)
 División 01. Agricultura, ganadería, caza y actividades de servicios conexas.
 011 Cultivos agrícolas transitorios.
 0111 Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas.
@@ -53,7 +52,6 @@ División 03. Pesca y acuicultura.
 0321 Acuicultura marítima.
 0322 Acuicultura de agua dulce.
 Sección B. Explotación de Minas y Canteras
-(Divisiones 05 A 09)
 División 05. Extracción de carbón de piedra y lignito.
 051 Extracción de hulla (carbón de piedra).
 0510 Extracción de hulla (carbón de piedra).
@@ -88,7 +86,6 @@ División 09. Actividades de servicios de apoyo para la explotación de minas y 
 099 Actividades de apoyo para otras actividades de explotación de minas y canteras.
 0990 Actividades de apoyo para otras actividades de explotación de minas y canteras.
 Sección C. Industrias Manufactureras
-(divisiones 10 a 33)
 División 10. Elaboración de productos alimenticios.
 101 Procesamiento y conservación de carne, pescado, crustáceos y moluscos.
 1011 Procesamiento y conservación de carne y productos cárnicos.
@@ -338,9 +335,7 @@ División 33. Instalación, mantenimiento y reparación especializada de maquina
 3319 Mantenimiento y reparación de otros tipos de equipos y sus componentes n.c.p.
 332 Instalación especializada de maquinaria y equipo industrial.
 3320 Instalación especializada de maquinaria y equipo industrial.
-Sección D. Suministro de Electricidad, Gas,
-Vapor y Aire acondicionado
-(División 35)
+Sección D. Suministro de Electricidad, Gas, Vapor y Aire acondicionado
 División 35. Suministro de electricidad, gas, vapor y aire acondicionado.
 351 Generación, transmisión, distribución y comercialización de energía eléctrica.
 3511 Generación de energía eléctrica.
@@ -352,7 +347,6 @@ División 35. Suministro de electricidad, gas, vapor y aire acondicionado.
 353 Suministro de vapor y aire acondicionado.
 3530 Suministro de vapor y aire acondicionado.
 Sección E. Distribución de Agua; Evacuación y Tratamiento de Aguas Residuales, Gestión de Desechos y Actividades de Saneamiento Ambiental
-(Divisiones 36 a 39)
 División 36. Captación, tratamiento y distribución de agua.
 360 Captación, tratamiento y distribución de agua.
 3600 Captación, tratamiento y distribución de agua.
@@ -372,7 +366,6 @@ División 39. Actividades de saneamiento ambiental y otros servicios de gestión
 390 Actividades de saneamiento ambiental y otros servicios de gestión de desechos.
 3900 Actividades de saneamiento ambiental y otros servicios de gestión de desechos.
 Sección F. Construcción
-(Divisiones 41 A 43)
 División 41. Construcción de edificios.
 411 Construcción de edificios.
 4111 Construcción de edificios residenciales.
@@ -396,9 +389,7 @@ División 43. Actividades especializadas para la construcción de edificios y ob
 4330 Terminación y acabado de edificios y obras de ingeniería civil.
 439 Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil.
 4390 Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil.
-Sección G. Comercio al por mayor y al por menor;
-Reparación de vehículos Automotores y Motocicletas
-(Divisiones 45 A 47)
+Sección G. Comercio al por mayor y al por menor; Reparación de vehículos Automotores y Motocicletas
 División 45. Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios.
 451 Comercio de vehículos automotores.
 4511 Comercio de vehículos automotores nuevos.
@@ -481,7 +472,6 @@ División 47. Comercio al por menor (incluso el comercio al por menor de combus�
 4792 Comercio al por menor realizado a través de casas de venta o por correo.
 4799 Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados.
 Sección H. Transporte y Almacenamiento
-(Divisiones 49 A 53)
 División 49. Transporte terrestre; transporte por tuberías.
 491 Transporte férreo.
 4911 Transporte férreo de pasajeros.
@@ -521,7 +511,6 @@ División 53. Correo y servicios de mensajería.
 532 Actividades de mensajería.
 5320 Actividades de mensajería.
 Sección I. Alojamiento y servicios de comida.
-(Divisiones 55 A 56)
 División 55. Alojamiento.
 551 Actividades de alojamiento de estancias cortas.
 5511 Alojamiento en hoteles.
@@ -546,8 +535,7 @@ División 56. Actividades de servicios de comidas y bebidas.
 5629 Actividades de otros servicios de comidas.
 563 Expendio de bebidas alcohólicas para el consumo dentro del establecimiento.
 5630 Expendio de bebidas alcohólicas para el consumo dentro del establecimiento.
-SECCIÓN J. INFORMACIÓN Y COMUNICACIONES
-(DIVISIONES 58 A 63)
+Sección J. Información Y Comunicaciones
 División 58. Actividades de edición.
 581 Edición de libros, publicaciones periódicas y otras actividades de edición.
 5811 Edición de libros.
@@ -591,7 +579,6 @@ División 63. Actividades de servicios de información.
 6391 Actividades de agencias de noticias.
 6399 Otras actividades de servicio de información n.c.p.
 Sección K. Actividades Financieras y de Seguros
-(Divisiones 64 A 66)
 División 64. Actividades de servicios financieros, excepto las de seguros y de pensiones.
 641 Intermediación monetaria.
 6411 Banco Central.
@@ -637,14 +624,12 @@ División 66. Actividades auxiliares de las actividades de servicios financieros
 663 Actividades de administración de fondos.
 6630 Actividades de administración de fondos.
 Sección L. Actividades Inmobiliarias
-(División 68)
 División 68. Actividades inmobiliarias.
 681 Actividades inmobiliarias realizadas con bienes propios o arrendados.
 6810 Actividades inmobiliarias realizadas con bienes propios o arrendados.
 682 Actividades inmobiliarias realizadas a cambio de una retribución o por contrata.
 6820 Actividades inmobiliarias realizadas a cambio de una retribución o por contrata.
 Sección M. Actividades Profesionales, Científicas y Técnicas
-(Divisiones 69 A 75)
 División 69. Actividades jurídicas y de contabilidad.
 691 Actividades jurídicas.
 6910 Actividades jurídicas.
@@ -680,9 +665,7 @@ División 74. Otras actividades profesionales, científicas y técnicas.
 División 75. Actividades veterinarias.
 750 Actividades veterinarias.
 7500 Actividades veterinarias.
-Sección N. Actividades de Servicios
-Administrativos y de Apoyo
-(Divisiones 77 A 82)
+Sección N. Actividades de Servicios Administrativos y de Apoyo
 División 77. Actividades de alquiler y arrendamiento.
 771 Alquiler y arrendamiento de vehículos automotores.
 7710 Alquiler y arrendamiento de vehículos automotores.
@@ -735,7 +718,6 @@ División 82. Actividades administrativas y de apoyo de oficina y otras activida
 8292 Actividades de envase y empaque.
 8299 Otras actividades de servicio de apoyo a las empresas n.c.p.
 Sección O. Administración Pública y Defensa; Planes de Seguridad Social de Afiliación Obligatoria
-(División 84)
 División 84. Administración pública y defensa; planes de seguridad social de afiliación obligatoria.
 841 Administración del Estado y aplicación de la política económica y social de la comunidad.
 8411 Actividades legislativas de la administración pública.
@@ -751,7 +733,6 @@ División 84. Administración pública y defensa; planes de seguridad social de 
 843 Actividades de planes de seguridad social de afiliación obligatoria.
 8430 Actividades de planes de seguridad social de afiliación obligatoria.
 Sección P. Educación
-(División 85)
 División 85. Educación.
 851 Educación de la primera infancia, preescolar y básica primaria.
 8511 Educación de la primera infancia.
@@ -775,9 +756,7 @@ División 85. Educación.
 8559 Otros tipos de educación n.c.p.
 856 Actividades de apoyo a la educación.
 8560 Actividades de apoyo a la educación.
-Sección Q. Actividades de Atención de la Salud
-Humana y de Asistencia Social
-(Divisiones 86 A 88)
+Sección Q. Actividades de Atención de la Salud, Humana y de Asistencia Social
 División 86. Actividades de atención de la salud humana.
 861 Actividades de hospitales y clínicas, con internación.
 8610 Actividades de hospitales y clínicas, con internación.
@@ -802,9 +781,7 @@ División 88. Actividades de asistencia social sin alojamiento.
 8810 Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas.
 889 Otras actividades de asistencia social sin alojamiento.
 8890 Otras actividades de asistencia social sin alojamiento.
-Sección R. Actividades Artísticas, de
-Entretenimiento y Recreación
-(Divisiones 90 A 93)
+Sección R. Actividades Artísticas, de Entretenimiento y Recreación
 División 90. Actividades creativas, artísticas y de entretenimiento.
 900 Actividades creativas, artísticas y de entretenimiento.
 9001 Creación literaria.
@@ -832,7 +809,6 @@ División 93. Actividades deportivas y actividades recreativas y de esparcimient
 9321 Actividades de parques de atracciones y parques temáticos.
 9329 Otras actividades recreativas y de esparcimiento n.c.p.
 Sección S. otras Actividades de Servicios
-(Divisiones 94 A 96)
 División 94. Actividades de asociaciones.
 941 Actividades de asociaciones empresariales y de empleadores, y asociaciones profesionales.
 9411 Actividades de asociaciones empresariales y de empleadores
@@ -860,7 +836,6 @@ División 96. Otras actividades de servicios personales.
 9603 Pompas fúnebres y actividades relacionadas.
 9609 Otras actividades de servicios personales n.c.p.
 Sección T. Actividades de los Hogares Individuales en Calidad de Empleadores; Actividades No Diferenciadas de los Hogares Individuales como Productores de Bienes y Servicios para uso Propio.
-(Divisiones 97 A 98)
 División 97. Actividades de los hogares individuales como empleadores de personal doméstico.
 970 Actividades de los hogares individuales como empleadores de personal doméstico.
 9700 Actividades de los hogares individuales como empleadores de personal doméstico.
@@ -869,9 +844,7 @@ División 98. Actividades no diferenciadas de los hogares individuales como prod
 9810 Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio.
 982 Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio.
 9820 Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio.
-Sección U. Actividades de Organizaciones y
-Entidades Extraterritoriales
-(División 99)
+Sección U. Actividades de Organizaciones y Entidades Extraterritoriales
 División 99. Actividades de organizaciones y entidades extraterritoriales.
 990 Actividades de organizaciones y entidades extraterritoriales.
 9900 Actividades de organizaciones y entidades extraterritoriales.
