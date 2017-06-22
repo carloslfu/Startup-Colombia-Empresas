@@ -1,5 +1,12 @@
 [
   {
+    "nombre": "Alojapp",
+    "fanpageUrl": "https://www.facebook.com/alojapp",
+    "webpage": "https://www.alojapp.com",
+    "usuarioNombre": "Daniel Forero Jacobo",
+    "usuarioUrl": "https://www.facebook.com/danielforeroj"
+  },
+  {
     "nombre": "Ubidots",
     "fanpageUrl": "https://www.facebook.com/ubidots",
     "webpage": "https://ubidots.com",
@@ -25,8 +32,7 @@
     "fanpageUrl": "https://www.facebook.com/digitaldreamsco",
     "webpage": "http://www.digitaldreams.co",
     "usuarioNombre": "Mario Fernando Prada",
-    "usuarioUrl": "https://www.facebook.com/mariofprada",
-    "email": "hello@digitaldreams.co"
+    "usuarioUrl": "https://www.facebook.com/mariofprada"
   },
   {
     "nombre": "Ocico",
