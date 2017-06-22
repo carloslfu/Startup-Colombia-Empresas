@@ -858,5 +858,3 @@ Personas naturales o sucesiones ilíquidas, que sin percibir ingresos y/o recibi
 Personas naturales que reciben recursos otorgados por terceros, que aún sin tener ingresos objeto de una relación laboral o como rentista de capital, se encuentran obligados a presentar declaración del impuesto de renta y complementarios de acuerdo con los parámetros establecidos por ley; así como aquellas personas, que registraron una actividad económica, dejan de ejercerla y sus recursos en la actualidad provienen de terceros.
 0090 Rentistas de Capital, solo para personas naturales.
 Personas naturales o sucesiones ilíquidas cuyos ingresos provienen de intereses, descuentos, beneficios, ganancias, utilidades y en general, todo cuanto represente rendimiento de capital o diferencia entre el valor invertido o aportado, y el valor futuro y/o pagado o abonado al aportante o inversionista.
-
-
