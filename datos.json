@@ -1,5 +1,19 @@
 [
   {
+    "nombre": "Empréndete",
+    "fanpageUrl": "https://www.facebook.com/emprendetepodcast",
+    "webpage": "http://emprendete.com.co",
+    "usuarioNombre": "Daniela Alejandra Arias",
+    "usuarioUrl": "https://www.facebook.com/daniela.arias.79069"
+  },
+  {
+    "nombre": "Foreground Web Solutions",
+    "fanpageUrl": "https://www.facebook.com/foregroundwebsolutions",
+    "webpage": "http://foreground.com.co",
+    "usuarioNombre": "Johann Manuel Cabeza",
+    "usuarioUrl": "https://www.facebook.com/johann.cabeza"
+  },
+  {
     "nombre": "TPaga",
     "fanpageUrl": "https://www.facebook.com/tpaga.co",
     "webpage": "https://tpaga.co"
