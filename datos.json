@@ -1,5 +1,26 @@
 [
   {
+    "nombre": "Tres Pi Medios",
+    "fanpage": "https://www.facebook.com/3pimedios",
+    "webpage": "http://trespimedios.co",
+    "usuario": "Miguel Betancourt",
+    "perfil": "https://www.facebook.com/midabelo"
+  },
+  {
+    "nombre": "Ayax",
+    "fanpage": "https://www.facebook.com/ayaxcolombia",
+    "webpage": "http://www.ayax.co",
+    "usuario": "Jorge Leonardo Espinosa",
+    "perfil": "https://www.facebook.com/profile.php?id=508882416"
+  },
+  {
+    "nombre": "Geekcore",
+    "fanpage": "https://www.facebook.com/geekcoredev",
+    "webpage": "http://www.geekcore.co",
+    "usuario": "Diego Andrés Baquero",
+    "perfil": "https://www.facebook.com/diegobaqt"
+  },
+  {
     "nombre": "biciq.com",
     "fanpage": "https://www.facebook.com/biciq",
     "webpage": "https://www.biciq.com",
