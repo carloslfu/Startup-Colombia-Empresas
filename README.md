@@ -23,7 +23,6 @@ Si tu empresa no está en la lista escríbela en el post de Facebook, la idea es
 
 Mira la [Hoja de ruta de este repositorio](https://github.com/carloslfu/Startup-Colombia-Empresas/blob/master/HOJADERUTA.md)
 
-
 ## 1. 10Entrepreneurs.com
 - Fanpage Url: [https://www.facebook.com/10entrepreneurs](https://www.facebook.com/10entrepreneurs)
 - Página Web: [http://www.10entrepreneurs.com](http://www.10entrepreneurs.com)
@@ -407,371 +406,377 @@ Mira la [Hoja de ruta de este repositorio](https://github.com/carloslfu/Startup-
 - Usuario: Victoria Gonzalez Suarez
 - Usuario Url: [https://www.facebook.com/vickykeropi](https://www.facebook.com/vickykeropi)
 
-## 67. Justgo
+## 67. Jolly Joker
+- Fanpage Url: [https://www.facebook.com/jollyjokerco](https://www.facebook.com/jollyjokerco)
+- Página Web: [https://jollyjoker.co](https://jollyjoker.co)
+- Usuario: Nico Luna
+- Usuario Url: [https://www.facebook.com/nicolunarojas](https://www.facebook.com/nicolunarojas)
+
+## 68. Justgo
 - Fanpage Url: [https://www.facebook.com/JustgoCarpooling](https://www.facebook.com/JustgoCarpooling)
 - Página Web: [https://justgo.co](https://justgo.co)
 - Usuario: Sebastian Salazar
 - Usuario Url: [https://www.facebook.com/sebastiansalazar1288](https://www.facebook.com/sebastiansalazar1288)
 
-## 68. KaiZen Green Colombia
+## 69. KaiZen Green Colombia
 - Fanpage Url: [https://www.facebook.com/kaizengreencolombia](https://www.facebook.com/kaizengreencolombia)
 - Usuario: Nenfer Elena Rojas Monroy
 - Usuario Url: [https://www.facebook.com/nenfer.monroy](https://www.facebook.com/nenfer.monroy)
 
-## 69. Komercia
+## 70. Komercia
 - Fanpage Url: [https://www.facebook.com/KomerciaWeb](https://www.facebook.com/KomerciaWeb)
 - Página Web: [http://komercia.co](http://komercia.co)
 - Usuario: Gustavo Moreno
 - Usuario Url: [https://www.facebook.com/gusplayer1](https://www.facebook.com/gusplayer1)
 
-## 70. La Bicicletería D.C.
+## 71. La Bicicletería D.C.
 - Fanpage Url: [https://www.facebook.com/Labicicleteriadc](https://www.facebook.com/Labicicleteriadc)
 - Usuario: Cristian David Puentes
 - Usuario Url: [https://www.facebook.com/cristiandavid.puentes](https://www.facebook.com/cristiandavid.puentes)
 
-## 71. LacerrajeriaColombia
+## 72. LacerrajeriaColombia
 - Fanpage Url: [https://m.facebook.com/LacerrajeriaColombia/?ref=bookmarks&hc_location=ufi](https://m.facebook.com/LacerrajeriaColombia/?ref=bookmarks&hc_location=ufi)
 - Usuario: Nicolas Cortes
 - Usuario Url: [https://www.facebook.com/cristian.cortes.777](https://www.facebook.com/cristian.cortes.777)
 
-## 72. Lavalo Colombia
+## 73. Lavalo Colombia
 - Fanpage Url: [https://facebook.com/lavalocolombia](https://facebook.com/lavalocolombia)
 - Página Web: [http://www.lavalocolombia.com](http://www.lavalocolombia.com)
 - Usuario: Alejandro Espinosa
 - Usuario Url: [https://www.facebook.com/alejo.spinosa](https://www.facebook.com/alejo.spinosa)
 
-## 73. Leancase
+## 74. Leancase
 - Fanpage Url: [https://www.facebook.com/leancaseco](https://www.facebook.com/leancaseco)
 - Página Web: [http://www.leancase.co](http://www.leancase.co)
 - Usuario: Juan Pablo Montaño
 - Usuario Url: [https://www.facebook.com/juan.p.montano.14](https://www.facebook.com/juan.p.montano.14)
 
-## 74. Lista en Casa
+## 75. Lista en Casa
 - Fanpage Url: [https://www.facebook.com/ListaEnCasa](https://www.facebook.com/ListaEnCasa)
 - Página Web: [https://listaencasa.com](https://listaencasa.com)
 - Usuario: Diego Alejandro Paez
 - Usuario Url: [https://www.facebook.com/diego.alejojo](https://www.facebook.com/diego.alejojo)
 
-## 75. Lleva Todo
+## 76. Lleva Todo
 - Fanpage Url: [https://www.facebook.com/LlevaTodoColombia](https://www.facebook.com/LlevaTodoColombia)
 - Página Web: [https://www.llevatodo.com](https://www.llevatodo.com)
 - Usuario: Howeimer Alexis Peña
 - Usuario Url: [https://www.facebook.com/howeimer](https://www.facebook.com/howeimer)
 
-## 76. Los Monstruos
+## 77. Los Monstruos
 - Fanpage Url: [https://www.facebook.com/los.monstruos](https://www.facebook.com/los.monstruos)
 - Página Web: [http://losmonstruoseducacion.com](http://losmonstruoseducacion.com)
 - Usuario: Juan Camilo Vergara Salazar
 - Usuario Url: [https://www.facebook.com/juank.com.co](https://www.facebook.com/juank.com.co)
 
-## 77. Make it Real
+## 78. Make it Real
 - Fanpage Url: [https://www.facebook.com/makeitrealcamp](https://www.facebook.com/makeitrealcamp)
 - Página Web: [https://www.makeitreal.camp/](https://www.makeitreal.camp/)
 - Usuario: Diana Vanegas Pinto
 - Usuario Url: [https://www.facebook.com/DianitaVanegasP](https://www.facebook.com/DianitaVanegasP)
 
-## 78. Marmobi SAS
+## 79. Marmobi SAS
 - Fanpage Url: [https://www.facebook.com/marmol.mobiliario](https://www.facebook.com/marmol.mobiliario)
 - Página Web: [http://www.marmolesymobiliario.com](http://www.marmolesymobiliario.com)
 - Usuario: Andrés Morales
 - Usuario Url: [https://www.facebook.com/jmoralesacero](https://www.facebook.com/jmoralesacero)
 
-## 79. MercadeoDigitalenPereira
+## 80. MercadeoDigitalenPereira
 - Fanpage Url: [https://www.facebook.com/MercadeoDigitalenPereira/](https://www.facebook.com/MercadeoDigitalenPereira/)
 - Usuario: Jacky Naranjo
 - Usuario Url: [https://www.facebook.com/JaKy2009](https://www.facebook.com/JaKy2009)
 
-## 80. Mesfix
+## 81. Mesfix
 - Fanpage Url: [https://www.facebook.com/MesfixSAS](https://www.facebook.com/MesfixSAS)
 - Página Web: [https://www.mesfix.com](https://www.mesfix.com)
 - Usuario: Felipe Tascon Ortiz
 - Usuario Url: [https://www.facebook.com/felipe.t.ortiz.5](https://www.facebook.com/felipe.t.ortiz.5)
 
-## 81. MiGuia
+## 82. MiGuia
 - Fanpage Url: [https://www.facebook.com/miguiaco/](https://www.facebook.com/miguiaco/)
 - Usuario: Mike Beta
 - Usuario Url: [https://www.facebook.com/MikeBeta123](https://www.facebook.com/MikeBeta123)
 
-## 82. MindTec.pe
+## 83. MindTec.pe
 - Fanpage Url: [https://www.facebook.com/MindTec.pe/](https://www.facebook.com/MindTec.pe/)
 - Usuario: Manuel F Figueroa
 - Usuario Url: [https://www.facebook.com/ManuelF27](https://www.facebook.com/ManuelF27)
 
-## 83. Mombox
+## 84. Mombox
 - Fanpage Url: [https://www.facebook.com/Momboxco](https://www.facebook.com/Momboxco)
 - Página Web: [https://mombox.co](https://mombox.co)
 - Usuario: Martha Castaño
 - Usuario Url: [https://www.facebook.com/martha.castanoh](https://www.facebook.com/martha.castanoh)
 
-## 84. Mussu
+## 85. Mussu
 - Fanpage Url: [https://www.facebook.com/mussumasaje](https://www.facebook.com/mussumasaje)
 - Página Web: [https://www.mussu.co](https://www.mussu.co)
 - Usuario: Michell Rodríguez
 - Usuario Url: [https://www.facebook.com/michellrodriguezn](https://www.facebook.com/michellrodriguezn)
 
-## 85. Naturista
+## 86. Naturista
 - Fanpage Url: [https://www.facebook.com/somosnaturista/](https://www.facebook.com/somosnaturista/)
 - Usuario: Danny Jaiquel
 - Usuario Url: [https://www.facebook.com/danny.jaiquel](https://www.facebook.com/danny.jaiquel)
 
-## 86. NetM SAS
+## 87. NetM SAS
 - Fanpage Url: [https://www.facebook.com/NetM-SAS-793649670750027](https://www.facebook.com/NetM-SAS-793649670750027)
 - Usuario: Daniel J. Malaver Camelo
 - Usuario Url: [https://www.facebook.com/daniel.malaver](https://www.facebook.com/daniel.malaver)
 
-## 87. Neumarket Colombia
+## 88. Neumarket Colombia
 - Fanpage Url: [https://www.facebook.com/Neumarket](https://www.facebook.com/Neumarket)
 - Página Web: [http://www.neumarket.com](http://www.neumarket.com)
 - Usuario: Jeane Ortiz Ágreda
 - Usuario Url: [https://www.facebook.com/jeane.o.agreda](https://www.facebook.com/jeane.o.agreda)
 
-## 88. NODO Coworking
+## 89. NODO Coworking
 - Fanpage Url: [https://www.facebook.com/nodocoworking](https://www.facebook.com/nodocoworking)
 - Página Web: [https://nodo.space](https://nodo.space)
 - Usuario: Julián Arango
 - Usuario Url: [https://www.facebook.com/Sadeuz](https://www.facebook.com/Sadeuz)
 
-## 89. Ocico
+## 90. Ocico
 - Fanpage Url: [https://www.facebook.com/ocicopets](https://www.facebook.com/ocicopets)
 - Página Web: [https://www.ocico.co](https://www.ocico.co)
 - Usuario: Julian Sanchez
 - Usuario Url: [https://www.facebook.com/jasanchez83](https://www.facebook.com/jasanchez83)
 
-## 90. p4s.co
+## 91. p4s.co
 - Fanpage Url: [https://www.facebook.com/p4sco](https://www.facebook.com/p4sco)
 - Página Web: [http://p4s.co](http://p4s.co)
 - Usuario: Edward Ramirez Avella
 - Usuario Url: [https://www.facebook.com/edp4s](https://www.facebook.com/edp4s)
 
-## 91. Parkeep
+## 92. Parkeep
 - Fanpage Url: [https://www.facebook.com/soyparkeep](https://www.facebook.com/soyparkeep)
 - Página Web: [http://parkeep.com.co](http://parkeep.com.co)
 - Usuario: Juan David Patiño
 - Usuario Url: [https://www.facebook.com/Juan7am](https://www.facebook.com/Juan7am)
 
-## 92. Pixeling Solutions
+## 93. Pixeling Solutions
 - Fanpage Url: [https://www.facebook.com/pixeling.co](https://www.facebook.com/pixeling.co)
 - Página Web: [http://www.pixeling.co](http://www.pixeling.co)
 - Usuario: Diego Valencia
 - Usuario Url: [https://www.facebook.com/diegovalencia727](https://www.facebook.com/diegovalencia727)
 
-## 93. Platzi
+## 94. Platzi
 - Fanpage Url: [https://www.facebook.com/platzi](https://www.facebook.com/platzi)
 - Página Web: [https://platzi.com](https://platzi.com)
 - Usuario: Freddy Vega
 - Usuario Url: [https://www.facebook.com/freddy.vega.963871](https://www.facebook.com/freddy.vega.963871)
 
-## 94. PlugAR
+## 95. PlugAR
 - Fanpage Url: [https://www.facebook.com/plugar.realidadaumentada](https://www.facebook.com/plugar.realidadaumentada)
 - Página Web: [http://www.plugar.co](http://www.plugar.co)
 - Usuario: Juan Sebastián Duque Álvarez
 - Usuario Url: [https://www.facebook.com/jsduque](https://www.facebook.com/jsduque)
 
-## 95. Prisma Soluciones en Informacion
+## 96. Prisma Soluciones en Informacion
 - Fanpage Url: [https://www.facebook.com/SaginfoCo/](https://www.facebook.com/SaginfoCo/)
 - Usuario: Sergio Gomez
 - Usuario Url: [https://www.facebook.com/serghio.gomez](https://www.facebook.com/serghio.gomez)
 
-## 96. Progressus
+## 97. Progressus
 - Fanpage Url: [https://www.facebook.com/progressus.com.co](https://www.facebook.com/progressus.com.co)
 - Usuario: Adriana Soto Ospina
 - Usuario Url: [https://www.facebook.com/sotoadriana](https://www.facebook.com/sotoadriana)
 
-## 97. Proyectos Tecnologicos Innovadores
+## 98. Proyectos Tecnologicos Innovadores
 - Fanpage Url: [https://www.facebook.com/proyetinn](https://www.facebook.com/proyetinn)
 - Página Web: [http://www.proyetinn.com](http://www.proyetinn.com)
 - Usuario: Juan Diego Castaño
 - Usuario Url: [https://www.facebook.com/juandiego.castano](https://www.facebook.com/juandiego.castano)
 
-## 98. Pryor & Pryor Abogados
+## 99. Pryor & Pryor Abogados
 - Página Web: [http://pryor.com.co](http://pryor.com.co)
 - Usuario: Juan Pryor
 - Usuario Url: [https://www.facebook.com/juan.pryor](https://www.facebook.com/juan.pryor)
 
-## 99. Punto Dos
+## 100. Punto Dos
 - Fanpage Url: [https://www.facebook.com/puntodosdigital](https://www.facebook.com/puntodosdigital)
 - Página Web: [http://puntodos.co](http://puntodos.co)
 - Usuario: Cristian Castaño
 - Usuario Url: [https://www.facebook.com/cristian.castano7](https://www.facebook.com/cristian.castano7)
 
-## 100. Rainforest Fringe Festival
+## 101. Rainforest Fringe Festival
 - Fanpage Url: [https://www.facebook.com/rffsarawak/](https://www.facebook.com/rffsarawak/)
 - Usuario: Alejandro Galvis
 - Usuario Url: [https://www.facebook.com/galvis.xyz](https://www.facebook.com/galvis.xyz)
 
-## 101. Red SURI
+## 102. Red SURI
 - Fanpage Url: [https://www.facebook.com/fanpage.redsuri](https://www.facebook.com/fanpage.redsuri)
 - Página Web: [http://www.redsuri.com](http://www.redsuri.com)
 - Usuario: Jhon Edinson Collazos Sanchez
 - Usuario Url: [https://www.facebook.com/jhonedinson.collazossanchez](https://www.facebook.com/jhonedinson.collazossanchez)
 
-## 102. Redrooster.tv
+## 103. Redrooster.tv
 - Fanpage Url: [https://www.facebook.com/Redrooster.tv/](https://www.facebook.com/Redrooster.tv/)
 - Usuario: Tatiana Giraldo Gomez
 - Usuario Url: [https://www.facebook.com/TGirald](https://www.facebook.com/TGirald)
 
-## 103. RicardoVelit
+## 104. RicardoVelit
 - Fanpage Url: [https://www.facebook.com/ricardovelitoficial/](https://www.facebook.com/ricardovelitoficial/)
 - Usuario: Jorge Velit Soto
 - Usuario Url: [https://www.facebook.com/RicardoVelit](https://www.facebook.com/RicardoVelit)
 
-## 104. Runer Colombia
+## 105. Runer Colombia
 - Fanpage Url: [https://www.facebook.com/RunerColombia/](https://www.facebook.com/RunerColombia/)
 - Usuario: Jean Paul Osorio
 - Usuario Url: [https://www.facebook.com/jeanpaulosorio](https://www.facebook.com/jeanpaulosorio)
 
-## 105. SAELO
+## 106. SAELO
 - Fanpage Url: [https://www.facebook.com/saeloasistencia](https://www.facebook.com/saeloasistencia)
 - Página Web: [http://www.saelo.co](http://www.saelo.co)
 - Usuario: Julian Sanchez
 - Usuario Url: [https://www.facebook.com/juliansanchezlop](https://www.facebook.com/juliansanchezlop)
 
-## 106. SanTaMaKaRena
+## 107. SanTaMaKaRena
 - Fanpage Url: [https://www.facebook.com/SanTaMaKaRena/](https://www.facebook.com/SanTaMaKaRena/)
 - Usuario: Eddy Quintero
 - Usuario Url: [https://www.facebook.com/eddy.quintero2](https://www.facebook.com/eddy.quintero2)
 
-## 107. Semiosis Lab
+## 108. Semiosis Lab
 - Fanpage Url: [https://www.facebook.com/semiosisLab](https://www.facebook.com/semiosisLab)
 - Página Web: [http://semiosislab.com](http://semiosislab.com)
 - Usuario: Edna Rocío Bravo Ibarra
 - Usuario Url: [https://www.facebook.com/edna.r.ibarra](https://www.facebook.com/edna.r.ibarra)
 
-## 108. SOA Consulting World
+## 109. SOA Consulting World
 - Fanpage Url: [https://www.facebook.com/soaconsulting](https://www.facebook.com/soaconsulting)
 - Página Web: [http://www.soaconsultingonline.com](http://www.soaconsultingonline.com)
 - Usuario: Pao Camargo
 - Usuario Url: [https://www.facebook.com/pao.camargo.56](https://www.facebook.com/pao.camargo.56)
 
-## 109. Solmedia Digital
+## 110. Solmedia Digital
 - Fanpage Url: [https://www.facebook.com/SolmediaDigital/](https://www.facebook.com/SolmediaDigital/)
 - Usuario: David Sebastián Agredo Navarro
 - Usuario Url: [https://www.facebook.com/DavidSebastianAgredoNavarro](https://www.facebook.com/DavidSebastianAgredoNavarro)
 
-## 110. SOLUTECIA S.A.S.
+## 111. SOLUTECIA S.A.S.
 - Fanpage Url: [https://www.facebook.com/solutecia](https://www.facebook.com/solutecia)
 - Página Web: [https://www.solutecia.com](https://www.solutecia.com)
 - Usuario: Iván Javier Londoño Rueda
 - Usuario Url: [https://www.facebook.com/ivanjavierlondonorueda](https://www.facebook.com/ivanjavierlondonorueda)
 
-## 111. SOP Biker
+## 112. SOP Biker
 - Fanpage Url: [https://www.facebook.com/SOP-Biker-114075155366194/](https://www.facebook.com/SOP-Biker-114075155366194/)
 - Usuario: Alvaro Velasquez
 - Usuario Url: [https://www.facebook.com/alvaro.velasquez.315](https://www.facebook.com/alvaro.velasquez.315)
 
-## 112. SunDevs Inc.
+## 113. SunDevs Inc.
 - Fanpage Url: [https://www.facebook.com/sundevsmobile/](https://www.facebook.com/sundevsmobile/)
 - Página Web: [https://www.facebook.com/sundevsmobile/](https://www.facebook.com/sundevsmobile/)
 - Usuario: Fabian Leon Ortega
 - Usuario Url: [https://www.facebook.com/shontauro](https://www.facebook.com/shontauro)
 
-## 113. Suricata Estudio
+## 114. Suricata Estudio
 - Página Web: [http://suricataestudio.ga/](http://suricataestudio.ga/)
 - Usuario: Nico Contreras
 - Usuario Url: [https://www.facebook.com/nicolas.david.92167](https://www.facebook.com/nicolas.david.92167)
 
-## 114. Te Tengo Presente
+## 115. Te Tengo Presente
 - Fanpage Url: [https://www.facebook.com/TeTengoPresenteCo](https://www.facebook.com/TeTengoPresenteCo)
 - Página Web: [https://www.tetengopresente.co](https://www.tetengopresente.co)
 - Usuario: Jefferson Ferney Jaramillo Vega
 - Usuario Url: [https://www.facebook.com/vegaferney](https://www.facebook.com/vegaferney)
 
-## 115. TeamCaller
+## 116. TeamCaller
 - Fanpage Url: [https://www.facebook.com/teamcallerapp/](https://www.facebook.com/teamcallerapp/)
 - Usuario: Jeisson Cano Romero
 - Usuario Url: [https://www.facebook.com/jcanoro](https://www.facebook.com/jcanoro)
 
-## 116. Tekus S.A.S
+## 117. Tekus S.A.S
 - Fanpage Url: [https://www.facebook.com/TekusS.A.S](https://www.facebook.com/TekusS.A.S)
 - Página Web: [http://www.tekus.co](http://www.tekus.co)
 - Usuario: Leonardo Arango Baena
 - Usuario Url: [https://www.facebook.com/leonardo.arango.baena](https://www.facebook.com/leonardo.arango.baena)
 
-## 117. TPaga
+## 118. TPaga
 - Fanpage Url: [https://www.facebook.com/tpaga.co](https://www.facebook.com/tpaga.co)
 - Página Web: [https://tpaga.co](https://tpaga.co)
 
-## 118. Trankki
+## 119. Trankki
 - Página Web: [http://trankki.com](http://trankki.com)
 - Usuario: Néstor Andrés Santos Vidales
 - Usuario Url: [https://www.facebook.com/NestorAndresSantosVidales](https://www.facebook.com/NestorAndresSantosVidales)
 
-## 119. Trappvel
+## 120. Trappvel
 - Fanpage Url: [https://www.facebook.com/Trappvel/](https://www.facebook.com/Trappvel/)
 - Usuario: Edgar Javier Alarcón
 - Usuario Url: [https://www.facebook.com/edgar.x.s](https://www.facebook.com/edgar.x.s)
 
-## 120. Tres Pi Medios
+## 121. Tres Pi Medios
 - Fanpage Url: [https://www.facebook.com/3pimedios](https://www.facebook.com/3pimedios)
 - Página Web: [http://trespimedios.co](http://trespimedios.co)
 - Usuario: Miguel Betancourt
 - Usuario Url: [https://www.facebook.com/midabelo](https://www.facebook.com/midabelo)
 
-## 121. Triarii
+## 122. Triarii
 - Fanpage Url: [https://www.facebook.com/TriariiColombia](https://www.facebook.com/TriariiColombia)
 - Página Web: [http://www.triarii.com.co](http://www.triarii.com.co)
 - Usuario: Andrés Leal
 - Usuario Url: [https://www.facebook.com/andrewbass7](https://www.facebook.com/andrewbass7)
 
-## 122. Tuatara
+## 123. Tuatara
 - Fanpage Url: [https://www.facebook.com/TuataraColombia](https://www.facebook.com/TuataraColombia)
 - Página Web: [https://www.tuatara.co](https://www.tuatara.co)
 - Usuario: Fabrizio González Maroso
 - Usuario Url: [https://www.facebook.com/fabriziolink](https://www.facebook.com/fabriziolink)
 
-## 123. TuCancha App
+## 124. TuCancha App
 - Fanpage Url: [https://www.facebook.com/tucancha/](https://www.facebook.com/tucancha/)
 - Usuario: Ernesto Diaz
 - Usuario Url: [https://www.facebook.com/ernesto.diaz.10.80](https://www.facebook.com/ernesto.diaz.10.80)
 
-## 124. TurboWare Colombia
+## 125. TurboWare Colombia
 - Fanpage Url: [https://www.facebook.com/turbowarecol](https://www.facebook.com/turbowarecol)
 - Página Web: [http://turbowarecol.com](http://turbowarecol.com)
 - Usuario: Ernesto Soto
 - Usuario Url: [https://www.facebook.com/sotomelendez](https://www.facebook.com/sotomelendez)
 
-## 125. Ubidots
+## 126. Ubidots
 - Fanpage Url: [https://www.facebook.com/ubidots](https://www.facebook.com/ubidots)
 - Página Web: [https://ubidots.com](https://ubidots.com)
 - Usuario: Agustín Peláez
 - Usuario Url: [https://www.facebook.com/agustin.pelaez](https://www.facebook.com/agustin.pelaez)
 
-## 126. Uvolt
+## 127. Uvolt
 - Fanpage Url: [https://www.facebook.com/uvoltenergy](https://www.facebook.com/uvoltenergy)
 - Página Web: [http://www.uvolt.ca/](http://www.uvolt.ca/)
 - Usuario: Antony Diaz
 - Usuario Url: [https://www.facebook.com/profile.php?id=1048962436](https://www.facebook.com/profile.php?id=1048962436)
 
-## 127. UVRcorrectores
+## 128. UVRcorrectores
 - Fanpage Url: [https://www.facebook.com/UVRcorrectores/?ref=aymt_homepage_panel&hc_location=ufi](https://www.facebook.com/UVRcorrectores/?ref=aymt_homepage_panel&hc_location=ufi)
 - Usuario: Ulises Rodríguez Utria
 - Usuario Url: [https://www.facebook.com/Deshinvirse](https://www.facebook.com/Deshinvirse)
 
-## 128. VALOPES
+## 129. VALOPES
 - Fanpage Url: [https://www.facebook.com/VAL0PES](https://www.facebook.com/VAL0PES)
 - Página Web: [http://www.valopes.com](http://www.valopes.com)
 - Usuario: Octavio Torres Quintana
 - Usuario Url: [https://www.facebook.com/OctavioTorresQ](https://www.facebook.com/OctavioTorresQ)
 
-## 129. VELASQUEZ NARANJO Y COMPAÑIA
+## 130. VELASQUEZ NARANJO Y COMPAÑIA
 - Fanpage Url: [https://www.facebook.com/venaycia](https://www.facebook.com/venaycia)
 - Página Web: [http://venaycia.com](http://venaycia.com)
 - Usuario: Alvaro Velasquez
 - Usuario Url: [https://www.facebook.com/alvaro.velasquez.315](https://www.facebook.com/alvaro.velasquez.315)
 
-## 130. Versus
+## 131. Versus
 - Fanpage Url: [https://www.facebook.com/deporteversus](https://www.facebook.com/deporteversus)
 - Página Web: [http://www.deporteversus.com](http://www.deporteversus.com)
 - Usuario: Felipe Grisales
 - Usuario Url: [https://www.facebook.com/juangrisalestv](https://www.facebook.com/juangrisalestv)
 
-## 131. Virtual Reality Concepts
+## 132. Virtual Reality Concepts
 - Fanpage Url: [https://www.facebook.com/VirtualRealityConcepts](https://www.facebook.com/VirtualRealityConcepts)
 - Página Web: [http://www.vrc.net.co](http://www.vrc.net.co)
 - Usuario: John H. Rodriguez
 - Usuario Url: [https://www.facebook.com/john.h.rodriguez](https://www.facebook.com/john.h.rodriguez)
 
-## 132. World Tech Makers
+## 133. World Tech Makers
 - Fanpage Url: [https://www.facebook.com/worldtechmakers/](https://www.facebook.com/worldtechmakers/)
 - Usuario: Jorge Yepes
 - Usuario Url: [https://www.facebook.com/georgeyepez](https://www.facebook.com/georgeyepez)
