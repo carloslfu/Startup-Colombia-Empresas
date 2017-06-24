@@ -1,5 +1,7 @@
 # Lista de empresas de Startup Colombia
 
+(La lista fue migrada a la página [Startups Colombia](https://startupcol.com/))
+
 Lista de empresas que participan en [Startup Colombia](https://www.facebook.com/groups/startupco). La lista está ordenada alfabeticamente y cada empresa tiene la siguiente informacion:
 
 - Nombre de la empresa
@@ -10,10 +12,7 @@ Lista de empresas que participan en [Startup Colombia](https://www.facebook.com/
 
 Datos por recolectar (Se automatizara el proceso):
 
-- Facebook:
-  - Likes del fanpage
-  - Numero de seguidores
-  - Puntuación
+- Facebook: (La API solo permite obtener likes)
 - Google:
   - Puntuacion de marca: reclacionado con el SEO de la empresa
 
