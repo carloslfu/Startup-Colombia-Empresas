@@ -1,6 +1,6 @@
 # Lista de empresas de Startup Colombia
 
-(La lista fue migrada a la página [Startups Colombia](https://startupcol.com/))
+Nota: La lista fue migrada a [Startups Colombia](https://github.com/Startup-Colombia/Sitio.git)
 
 Lista de empresas que participan en [Startup Colombia](https://www.facebook.com/groups/startupco). La lista está ordenada alfabeticamente y cada empresa tiene la siguiente informacion:
 
